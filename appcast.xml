@@ -10,15 +10,12 @@
             <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<h2>Forge Pro 1.0.1</h2>
-<p>Build 202608281455 · commit a0a440f · stable channel</p><ul>
-<li>docs: SSOT — Sol 1c landed, 1.0.1 staging</li>
-<li>build(macOS): Sol pass 1c — the DMG archive lives outside the appcast's scanned dir; a changed Sparkle nested layout fails the cut instead of skipping the signing (GH #12)</li>
-<li>docs: SSOT — Sol adjudication landed (6454448), 1.0.1 queued</li>
-<li>fix(updates): Sol pass adjudication for GH #12/#423 — Swift package licenses in the notices (swift-markdown Apache-2.0 + NOTICE, swift-cmark BSD), notices bundled on iOS, the General 'Updates…' button routes the compact stack, Sparkle's own auto-check flips mirrored, the state adopts the persisted channel, the release cut refuses a non-increasing build number and feeds generate_appcast only the new DMG</li>
-<li>docs: standalone log — GH #12/#423 run, attack list, Sol timeouts</li>
-<li>docs: SSOT — Forge Pro 1.0.0 PUBLISHED, Prod on the feed, Sol passes in flight</li>
-<li>build(macOS): release-macos.sh verifies the appcast item by <sparkle:version> ELEMENT and by the build number actually packaged (GH #12)</li>
-<li>build(macOS): release-macos.sh — bash 3.2 empty-array expansion under set -u (killed the first cut after a successful notarization) (GH #12)</li>
+<p>Build 202608281455 · stable channel</p>
+<ul>
+<li>Third-party notices now include the Swift packages linked into the app (swift-markdown, swift-cmark) and ship with the iOS app as well.</li>
+<li>Settings › General gains the automatic-updates toggle with the current channel and a Check for Updates button.</li>
+<li>The update channel chosen in Settings is honoured from launch; changes made by the updater itself are reflected in Settings.</li>
+<li>Release pipeline hardening: signed Sparkle helper tools, notarization fixes, non-arm64 native prebuilds pruned, a build number that can only increase, and older releases keep their download links.</li>
 </ul>
 ]]></description>
             <enclosure url="https://github.com/caseyf1988/forgeclipro-releases/releases/download/macos-v1.0.1/ForgeCLI-Pro-1.0.1.dmg" length="181141165" type="application/octet-stream" sparkle:edSignature="qxQFVpX2OW/d5eq8lfQwlk+C4uxvdEqdH7a98Uas734+rhEQSzmLv8yQazU5AmnpstVQPB5gIY7jxN4keCNvAw=="/>
