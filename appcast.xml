@@ -1,0 +1,20 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>ForgeCLI Pro</title>
+        <item>
+            <title>1.0.0</title>
+            <pubDate>Fri, 28 Aug 2026 14:30:11 -0400</pubDate>
+            <link>https://github.com/caseyf1988/forgeclipro-releases/releases</link>
+            <sparkle:version>202608281424</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Forge Pro 1.0.0</h2>
+<p>Build 202608281424 · commit b191a21 · stable channel</p><ul>
+<li>First release on the update feed.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/caseyf1988/forgeclipro-releases/releases/download/macos-v1.0.0/ForgeCLI-Pro-1.0.0.dmg" length="182802598" type="application/octet-stream" sparkle:edSignature="LGsKfJblM6hWPlc9EVoyEQZ2xkRAxz0Hb1Dd/EHOnlSTAF/55Yo1LXvPYfkKVknWB8AXr5O+efZAwzJPfRx4BQ=="/>
+        </item>
+    </channel>
+</rss>
