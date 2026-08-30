@@ -6,6 +6,33 @@
             <title>1.0.1</title>
             <pubDate>Fri, 28 Aug 2026 15:00:32 -0400</pubDate>
             <link>https://github.com/caseyf1988/forgeclipro-releases/releases</link>
+            <sparkle:version>202608292024</sparkle:version>
+            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Forge Pro 1.0.1</h2>
+<p>Build 202608292024 · commit b65ef8d7 · stable channel</p>
+<ul>
+<li>Fixed: sending a message no longer jumps the thread to the middle — chrome transitions after a send re-anchor to the tail instead of unpinning the follow.</li>
+<li>Fixed: a fast flick right after the composer resizes is respected as a scroll again (the re-anchor grace no longer swallows it).</li>
+<li>New: a Claude account card in Provider settings — live signed-in status, one-tap re-authenticate with code paste-back, no terminal needed.</li>
+<li>Fixed: the stale authentication-error banner clears when a re-sign-in actually completes, and a run that fails on authentication now says so and points at Settings.</li>
+<li>Fixed: interrupting a run shows "aborted", never "failed".</li>
+<li>New: live agent output in the agent sheet — see what each subagent is doing while it runs; the feed keeps following past long histories.</li>
+<li>Fixed: background tasks show Running instead of a permanent Queued.</li>
+<li>Fixed: the streaming caret rides inline at the end of the prose instead of hopping on its own line, and can no longer be copied with the text.</li>
+<li>Fixed: attached photo thumbnails only show the checkmark when the attachment was actually taken; rapid double-taps no longer double-attach.</li>
+<li>Fixed: cached threads from older builds load again instead of re-hydrating from scratch; large agent fleets no longer disable thread caching.</li>
+<li>Fixed: Settings no longer flickers or vanishes when a surface auto-raises behind it on iPhone.</li>
+<li>Fixed: reconnecting to a different server clears the previous server's sign-in state and re-checks account validity.</li>
+<li>Fixed: the up-to-date git bar drops its redundant explanation line.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/caseyf1988/forgeclipro-releases/releases/download/macos-v1.0.1/ForgeCLI-Pro-1.0.1.dmg" length="182431439" type="application/octet-stream" sparkle:edSignature="O7KK+OEQwc3I426lZ9coEJJrE9R0FtVBaU3zIT80RurEakDUWmucurtLKhX65dliCPQOf38j2XmQlgG9NCn5Bw=="/>
+        </item>
+        <item>
+            <title>1.0.1</title>
+            <pubDate>Fri, 28 Aug 2026 15:00:32 -0400</pubDate>
+            <link>https://github.com/caseyf1988/forgeclipro-releases/releases</link>
             <sparkle:version>202608281455</sparkle:version>
             <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
