@@ -635,3 +635,17 @@ listed in `THIRD_PARTY_NOTICES-companion.txt` next to this file, each with its l
 
 Claude Code, Codex, opencode and T3 Code's client informed interaction design; no code from
 them is included in the Swift client.
+
+## SwiftTerm
+
+The terminal surface (iOS + macOS) uses **SwiftTerm** by Miguel de Icaza — a VT100/xterm
+terminal emulator — under the MIT License. https://github.com/migueldeicaza/SwiftTerm
+Forge pins v1.20.0 (5d14406844143538cd8f8851d2d8a67c1fe443e5), with a local patch
+that disables file/shared-memory Kitty image transport on Apple clients. Inline images remain supported.
+
+MIT License. Copyright (c) Miguel de Icaza. Permission is hereby granted, free of charge, to any
+person obtaining a copy of this software and associated documentation files (the "Software"), to
+deal in the Software without restriction, including without limitation the rights to use, copy,
+modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit
+persons to whom the Software is furnished to do so, subject to the standard MIT conditions and
+warranty disclaimer.

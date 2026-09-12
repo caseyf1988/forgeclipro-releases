@@ -1,7 +1,22 @@
-<?xml version="1.0" standalone="yes"?>
+<?xml version='1.0' encoding='utf-8'?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
-        <title>ForgeCLI Pro</title>
+        <item>
+            <title>1.0.2-dev.983</title>
+            <pubDate>Sat, 12 Sep 2026 07:06:30 -0700</pubDate>
+            <link>https://github.com/caseyf1988/forgeclipro-releases/releases</link>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>202609120603</sparkle:version>
+            <sparkle:shortVersionString>1.0.2-dev.983</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description>&lt;h2&gt;Forge Pro 1.0.2-dev.983&lt;/h2&gt;
+&lt;p&gt;Build 202609120603 · commit bff3db1a · beta channel&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;Maintenance update from the verified build.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <enclosure url="https://github.com/caseyf1988/forgeclipro-releases/releases/download/macos-v1.0.2-dev.983-202609120603/ForgeCLI-Pro-1.0.2-dev.983.dmg" length="199446132" type="application/octet-stream" sparkle:edSignature="Q9uSARCHHb54Tr09Q6BLoSaKyuZBzz//gs20YLvjjLZYJpfEId6jkEyshS2SeVEd3YwIQ0O3BYxxxtbaYmzHAQ==" />
+        </item>
+    <title>ForgeCLI Pro</title>
         <item>
             <title>1.0.1</title>
             <pubDate>Fri, 28 Aug 2026 15:00:32 -0400</pubDate>
@@ -9,25 +24,25 @@
             <sparkle:version>202608292024</sparkle:version>
             <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Forge Pro 1.0.1</h2>
-<p>Build 202608292024 · commit b65ef8d7 · stable channel</p>
-<ul>
-<li>Fixed: sending a message no longer jumps the thread to the middle — chrome transitions after a send re-anchor to the tail instead of unpinning the follow.</li>
-<li>Fixed: a fast flick right after the composer resizes is respected as a scroll again (the re-anchor grace no longer swallows it).</li>
-<li>New: a Claude account card in Provider settings — live signed-in status, one-tap re-authenticate with code paste-back, no terminal needed.</li>
-<li>Fixed: the stale authentication-error banner clears when a re-sign-in actually completes, and a run that fails on authentication now says so and points at Settings.</li>
-<li>Fixed: interrupting a run shows "aborted", never "failed".</li>
-<li>New: live agent output in the agent sheet — see what each subagent is doing while it runs; the feed keeps following past long histories.</li>
-<li>Fixed: background tasks show Running instead of a permanent Queued.</li>
-<li>Fixed: the streaming caret rides inline at the end of the prose instead of hopping on its own line, and can no longer be copied with the text.</li>
-<li>Fixed: attached photo thumbnails only show the checkmark when the attachment was actually taken; rapid double-taps no longer double-attach.</li>
-<li>Fixed: cached threads from older builds load again instead of re-hydrating from scratch; large agent fleets no longer disable thread caching.</li>
-<li>Fixed: Settings no longer flickers or vanishes when a surface auto-raises behind it on iPhone.</li>
-<li>Fixed: reconnecting to a different server clears the previous server's sign-in state and re-checks account validity.</li>
-<li>Fixed: the up-to-date git bar drops its redundant explanation line.</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/caseyf1988/forgeclipro-releases/releases/download/macos-v1.0.1/ForgeCLI-Pro-1.0.1.dmg" length="182431439" type="application/octet-stream" sparkle:edSignature="O7KK+OEQwc3I426lZ9coEJJrE9R0FtVBaU3zIT80RurEakDUWmucurtLKhX65dliCPQOf38j2XmQlgG9NCn5Bw=="/>
+            <description>&lt;h2&gt;Forge Pro 1.0.1&lt;/h2&gt;
+&lt;p&gt;Build 202608292024 · commit b65ef8d7 · stable channel&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed: sending a message no longer jumps the thread to the middle — chrome transitions after a send re-anchor to the tail instead of unpinning the follow.&lt;/li&gt;
+&lt;li&gt;Fixed: a fast flick right after the composer resizes is respected as a scroll again (the re-anchor grace no longer swallows it).&lt;/li&gt;
+&lt;li&gt;New: a Claude account card in Provider settings — live signed-in status, one-tap re-authenticate with code paste-back, no terminal needed.&lt;/li&gt;
+&lt;li&gt;Fixed: the stale authentication-error banner clears when a re-sign-in actually completes, and a run that fails on authentication now says so and points at Settings.&lt;/li&gt;
+&lt;li&gt;Fixed: interrupting a run shows "aborted", never "failed".&lt;/li&gt;
+&lt;li&gt;New: live agent output in the agent sheet — see what each subagent is doing while it runs; the feed keeps following past long histories.&lt;/li&gt;
+&lt;li&gt;Fixed: background tasks show Running instead of a permanent Queued.&lt;/li&gt;
+&lt;li&gt;Fixed: the streaming caret rides inline at the end of the prose instead of hopping on its own line, and can no longer be copied with the text.&lt;/li&gt;
+&lt;li&gt;Fixed: attached photo thumbnails only show the checkmark when the attachment was actually taken; rapid double-taps no longer double-attach.&lt;/li&gt;
+&lt;li&gt;Fixed: cached threads from older builds load again instead of re-hydrating from scratch; large agent fleets no longer disable thread caching.&lt;/li&gt;
+&lt;li&gt;Fixed: Settings no longer flickers or vanishes when a surface auto-raises behind it on iPhone.&lt;/li&gt;
+&lt;li&gt;Fixed: reconnecting to a different server clears the previous server's sign-in state and re-checks account validity.&lt;/li&gt;
+&lt;li&gt;Fixed: the up-to-date git bar drops its redundant explanation line.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <enclosure url="https://github.com/caseyf1988/forgeclipro-releases/releases/download/macos-v1.0.1/ForgeCLI-Pro-1.0.1.dmg" length="182431439" type="application/octet-stream" sparkle:edSignature="O7KK+OEQwc3I426lZ9coEJJrE9R0FtVBaU3zIT80RurEakDUWmucurtLKhX65dliCPQOf38j2XmQlgG9NCn5Bw==" />
         </item>
         <item>
             <title>1.0.1</title>
@@ -36,16 +51,16 @@
             <sparkle:version>202608281455</sparkle:version>
             <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Forge Pro 1.0.1</h2>
-<p>Build 202608281455 · stable channel</p>
-<ul>
-<li>Third-party notices now include the Swift packages linked into the app (swift-markdown, swift-cmark) and ship with the iOS app as well.</li>
-<li>Settings › General gains the automatic-updates toggle with the current channel and a Check for Updates button.</li>
-<li>The update channel chosen in Settings is honoured from launch; changes made by the updater itself are reflected in Settings.</li>
-<li>Release pipeline hardening: signed Sparkle helper tools, notarization fixes, non-arm64 native prebuilds pruned, a build number that can only increase, and older releases keep their download links.</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/caseyf1988/forgeclipro-releases/releases/download/macos-v1.0.1/ForgeCLI-Pro-1.0.1.dmg" length="181141165" type="application/octet-stream" sparkle:edSignature="qxQFVpX2OW/d5eq8lfQwlk+C4uxvdEqdH7a98Uas734+rhEQSzmLv8yQazU5AmnpstVQPB5gIY7jxN4keCNvAw=="/>
+            <description>&lt;h2&gt;Forge Pro 1.0.1&lt;/h2&gt;
+&lt;p&gt;Build 202608281455 · stable channel&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Third-party notices now include the Swift packages linked into the app (swift-markdown, swift-cmark) and ship with the iOS app as well.&lt;/li&gt;
+&lt;li&gt;Settings › General gains the automatic-updates toggle with the current channel and a Check for Updates button.&lt;/li&gt;
+&lt;li&gt;The update channel chosen in Settings is honoured from launch; changes made by the updater itself are reflected in Settings.&lt;/li&gt;
+&lt;li&gt;Release pipeline hardening: signed Sparkle helper tools, notarization fixes, non-arm64 native prebuilds pruned, a build number that can only increase, and older releases keep their download links.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <enclosure url="https://github.com/caseyf1988/forgeclipro-releases/releases/download/macos-v1.0.1/ForgeCLI-Pro-1.0.1.dmg" length="181141165" type="application/octet-stream" sparkle:edSignature="qxQFVpX2OW/d5eq8lfQwlk+C4uxvdEqdH7a98Uas734+rhEQSzmLv8yQazU5AmnpstVQPB5gIY7jxN4keCNvAw==" />
         </item>
         <item>
             <title>1.0.0</title>
@@ -54,12 +69,12 @@
             <sparkle:version>202608281424</sparkle:version>
             <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Forge Pro 1.0.0</h2>
-<p>Build 202608281424 · commit b191a21 · stable channel</p><ul>
-<li>First release on the update feed.</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/caseyf1988/forgeclipro-releases/releases/download/macos-v1.0.0/ForgeCLI-Pro-1.0.0.dmg" length="182802598" type="application/octet-stream" sparkle:edSignature="LGsKfJblM6hWPlc9EVoyEQZ2xkRAxz0Hb1Dd/EHOnlSTAF/55Yo1LXvPYfkKVknWB8AXr5O+efZAwzJPfRx4BQ=="/>
+            <description>&lt;h2&gt;Forge Pro 1.0.0&lt;/h2&gt;
+&lt;p&gt;Build 202608281424 · commit b191a21 · stable channel&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;First release on the update feed.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <enclosure url="https://github.com/caseyf1988/forgeclipro-releases/releases/download/macos-v1.0.0/ForgeCLI-Pro-1.0.0.dmg" length="182802598" type="application/octet-stream" sparkle:edSignature="LGsKfJblM6hWPlc9EVoyEQZ2xkRAxz0Hb1Dd/EHOnlSTAF/55Yo1LXvPYfkKVknWB8AXr5O+efZAwzJPfRx4BQ==" />
         </item>
     </channel>
 </rss>
