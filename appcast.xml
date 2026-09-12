@@ -2,6 +2,25 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <item>
+            <title>1.0.2-dev.993</title>
+            <pubDate>Sat, 12 Sep 2026 12:57:28 -0700</pubDate>
+            <link>https://github.com/caseyf1988/forgeclipro-releases/releases</link>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>202609121248</sparkle:version>
+            <sparkle:shortVersionString>1.0.2-dev.993</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description>&lt;h2&gt;Forge Pro 1.0.2-dev.993&lt;/h2&gt;
+&lt;p&gt;Build 202609121248 · commit 39e7d1f3 · beta channel&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;fix: retain server-name save confirmation on native binding echoes&lt;/li&gt;
+&lt;li&gt;feat: share authenticated server names across Apple connections&lt;/li&gt;
+&lt;li&gt;feat: add reviewed server-owned connection name profiles&lt;/li&gt;
+&lt;li&gt;fix: reconcile provider dismissals across devices and resets&lt;/li&gt;
+&lt;li&gt;fix: preserve the build lease during Beta publication&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <enclosure url="https://github.com/caseyf1988/forgeclipro-releases/releases/download/macos-v1.0.2-dev.993-202609121248/ForgeCLI-Pro-1.0.2-dev.993.dmg" length="199620149" type="application/octet-stream" sparkle:edSignature="AE6tOpXqBDzSg8HqDljy7r5qtCiQSPODJVhXP9ieGxTVO/SOKp+QqX+zC99A23bQkLaKE9B2JKQ+VV6VOIxtBg==" />
+        </item>
+    <item>
             <title>1.0.2-dev.983</title>
             <pubDate>Sat, 12 Sep 2026 07:06:30 -0700</pubDate>
             <link>https://github.com/caseyf1988/forgeclipro-releases/releases</link>
