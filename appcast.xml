@@ -2,6 +2,40 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <item>
+            <title>1.0.2-dev.1033</title>
+            <pubDate>Sun, 13 Sep 2026 10:19:35 -0700</pubDate>
+            <link>https://github.com/caseyf1988/forgeclipro-releases/releases</link>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>202609131010</sparkle:version>
+            <sparkle:shortVersionString>1.0.2-dev.1033</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description>&lt;h2&gt;Forge Pro 1.0.2-dev.1033&lt;/h2&gt;
+&lt;p&gt;Build 202609131010 · commit a71fa24b · beta channel&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;fix(tasks): preserve identity as plans grow beyond 100 items&lt;/li&gt;
+&lt;li&gt;fix(ios): reuse unchanged paragraph layout during streaming&lt;/li&gt;
+&lt;li&gt;fix(questions): preserve Codex lifecycle and answer ownership&lt;/li&gt;
+&lt;li&gt;fix(workspaces): preserve published local branches during project moves&lt;/li&gt;
+&lt;li&gt;fix(github): confirm final PR merge state and current workspace ownership&lt;/li&gt;
+&lt;li&gt;fix(github): retain PR merge results and uncertain request identity&lt;/li&gt;
+&lt;li&gt;feat(github): add native PR discussion comments with retained submission identity&lt;/li&gt;
+&lt;li&gt;feat(github): add bounded selected PR comments backend&lt;/li&gt;
+&lt;li&gt;feat(github): show selected PR details in native views&lt;/li&gt;
+&lt;li&gt;feat(github): add bounded selected pull request detail reads&lt;/li&gt;
+&lt;li&gt;fix(git): retire stale branch choices and fit mobile branch lists&lt;/li&gt;
+&lt;li&gt;fix(git): count distinct status entries and preserve raw paths&lt;/li&gt;
+&lt;li&gt;fix: bind PR actions to owned context and refreshed snapshots&lt;/li&gt;
+&lt;li&gt;fix: reconcile Recents selection with the captured draft&lt;/li&gt;
+&lt;li&gt;fix: preserve unknown Claude account status during recovery&lt;/li&gt;
+&lt;li&gt;fix: preserve inherited thread access and refresh live ceilings&lt;/li&gt;
+&lt;li&gt;fix: sync completion attention across Apple clients&lt;/li&gt;
+&lt;li&gt;fix: preserve explicit unread intent against delayed reads&lt;/li&gt;
+&lt;li&gt;feat: wire shared completion attention commands and Apple decoding&lt;/li&gt;
+&lt;li&gt;fix: preserve completion identity across shared attention changes&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <enclosure url="https://github.com/caseyf1988/forgeclipro-releases/releases/download/macos-v1.0.2-dev.1033-202609131010/ForgeCLI-Pro-1.0.2-dev.1033.dmg" length="199787368" type="application/octet-stream" sparkle:edSignature="AaVti3SM6fVetGfiKLHjaPsckuCAMJ79N+IBntk/2b/M68/LEmOBbnV/oYg67lxfsw4gtjNi51HE5t5JDADpDA==" />
+        </item>
+    <item>
             <title>1.0.2-dev.993</title>
             <pubDate>Sat, 12 Sep 2026 12:57:28 -0700</pubDate>
             <link>https://github.com/caseyf1988/forgeclipro-releases/releases</link>
