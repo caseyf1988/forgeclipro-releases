@@ -2,6 +2,23 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <item>
+            <title>1.0.2-dev.1065</title>
+            <pubDate>Mon, 14 Sep 2026 07:35:57 -0700</pubDate>
+            <link>https://github.com/caseyf1988/forgeclipro-releases/releases</link>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>202609140727</sparkle:version>
+            <sparkle:shortVersionString>1.0.2-dev.1065</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description>&lt;h2&gt;Forge Pro 1.0.2-dev.1065&lt;/h2&gt;
+&lt;p&gt;Build 202609140727 · commit 0f4b0a3c · beta channel&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;fix: make agent tasks readable and reject stale transcript refreshes&lt;/li&gt;
+&lt;li&gt;fix: explain reviewer result availability without transcript polling&lt;/li&gt;
+&lt;li&gt;fix: retain reported agent background state at startup&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <enclosure url="https://github.com/caseyf1988/forgeclipro-releases/releases/download/macos-v1.0.2-dev.1065-202609140727/ForgeCLI-Pro-1.0.2-dev.1065.dmg" length="200469040" type="application/octet-stream" sparkle:edSignature="EZ8ApAFEJAUssa38IgvTh+a5XXbizcfMcljFx63R8C3vH1wljktuBohnLR2x5F2H3qdodk+3FC6ZGraNfd1VBg==" />
+        </item>
+    <item>
             <title>1.0.2-dev.1052</title>
             <pubDate>Sun, 13 Sep 2026 18:08:54 -0700</pubDate>
             <link>https://github.com/caseyf1988/forgeclipro-releases/releases</link>
