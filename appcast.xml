@@ -2,6 +2,25 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <item>
+            <title>1.0.2-dev.1052</title>
+            <pubDate>Sun, 13 Sep 2026 18:08:54 -0700</pubDate>
+            <link>https://github.com/caseyf1988/forgeclipro-releases/releases</link>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>202609131800</sparkle:version>
+            <sparkle:shortVersionString>1.0.2-dev.1052</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description>&lt;h2&gt;Forge Pro 1.0.2-dev.1052&lt;/h2&gt;
+&lt;p&gt;Build 202609131800 · commit ac301496 · beta channel&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;fix(agents): isolate child output and retain interrupted replay blocks&lt;/li&gt;
+&lt;li&gt;fix(agents): retain Claude child text attribution&lt;/li&gt;
+&lt;li&gt;fix: preserve contiguous Terminal replay history across reconnects&lt;/li&gt;
+&lt;li&gt;fix(terminal): preserve independent native output observers&lt;/li&gt;
+&lt;li&gt;fix(codex): enable questions using current child compatibility&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <enclosure url="https://github.com/caseyf1988/forgeclipro-releases/releases/download/macos-v1.0.2-dev.1052-202609131800/ForgeCLI-Pro-1.0.2-dev.1052.dmg" length="200429624" type="application/octet-stream" sparkle:edSignature="n/D9qi0+digRcymNu8FzdeL0un/PExewjhlDoXMX2pFgx8dXDhhyUq+GuzC9s4Bc4pl6+uMvz2NRVogrfrFWCA==" />
+        </item>
+    <item>
             <title>1.0.2-dev.1033</title>
             <pubDate>Sun, 13 Sep 2026 10:19:35 -0700</pubDate>
             <link>https://github.com/caseyf1988/forgeclipro-releases/releases</link>
