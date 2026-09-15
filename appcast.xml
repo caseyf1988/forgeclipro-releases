@@ -2,6 +2,26 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <item>
+            <title>1.0.2-dev.1101</title>
+            <pubDate>Tue, 15 Sep 2026 07:24:07 -0700</pubDate>
+            <link>https://github.com/caseyf1988/forgeclipro-releases/releases</link>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>202609150712</sparkle:version>
+            <sparkle:shortVersionString>1.0.2-dev.1101</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description>&lt;h2&gt;Forge Pro 1.0.2-dev.1101&lt;/h2&gt;
+&lt;p&gt;Build 202609150712 · commit ca1ff292 · beta channel&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;fix(roadmaps): preserve independently scoped action feedback&lt;/li&gt;
+&lt;li&gt;fix(roadmaps): preserve outcomes and settle terminal delivery&lt;/li&gt;
+&lt;li&gt;fix(roadmaps): keep model identity scoped to each activity&lt;/li&gt;
+&lt;li&gt;fix(roadmaps): retain history by actual event order&lt;/li&gt;
+&lt;li&gt;fix(workflows): retain stage evidence and attempt context&lt;/li&gt;
+&lt;li&gt;fix: preserve drafts across accessible reading layouts&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <enclosure url="https://github.com/caseyf1988/forgeclipro-releases/releases/download/macos-v1.0.2-dev.1101-202609150712/ForgeCLI-Pro-1.0.2-dev.1101.dmg" length="199322746" type="application/octet-stream" sparkle:edSignature="Fn2A0pc9zHnut5737JkrZ5pED8uve/ApX+V9MW+oy1eLcihb7SOuAGEbMgHYAGEbU510Kap6ypB0IwOuAeMCAg==" />
+        </item>
+    <item>
             <title>1.0.2-dev.1065</title>
             <pubDate>Mon, 14 Sep 2026 07:35:57 -0700</pubDate>
             <link>https://github.com/caseyf1988/forgeclipro-releases/releases</link>
