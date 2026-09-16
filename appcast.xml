@@ -2,6 +2,22 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <item>
+            <title>1.0.2-dev.1141</title>
+            <pubDate>Wed, 16 Sep 2026 10:35:40 -0700</pubDate>
+            <link>https://github.com/caseyf1988/forgeclipro-releases/releases</link>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>202609161026</sparkle:version>
+            <sparkle:shortVersionString>1.0.2-dev.1141</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description>&lt;h2&gt;Forge Pro 1.0.2-dev.1141&lt;/h2&gt;
+&lt;p&gt;Build 202609161026 · commit 96c9c2c9 · beta channel&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;feat: integrate reviewed server startup identity foundation&lt;/li&gt;
+&lt;li&gt;fix: make Local Stop own compaction cancellation through settlement&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <enclosure url="https://github.com/caseyf1988/forgeclipro-releases/releases/download/macos-v1.0.2-dev.1141-202609161026/ForgeCLI-Pro-1.0.2-dev.1141.dmg" length="198736987" type="application/octet-stream" sparkle:edSignature="hDFULfvWZ6B6urpuk3H+k39UdkntaKcYDm+YAXMtYfFBSsvAy0xTEFMke6qqFIA9vSyPebXsIr2DrWtze3KMDg==" />
+        </item>
+    <item>
             <title>1.0.2-dev.1130</title>
             <pubDate>Wed, 16 Sep 2026 06:15:21 -0700</pubDate>
             <link>https://github.com/caseyf1988/forgeclipro-releases/releases</link>
