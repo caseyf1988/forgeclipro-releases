@@ -2,6 +2,32 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <item>
+            <title>1.0.2-dev.1130</title>
+            <pubDate>Wed, 16 Sep 2026 06:15:21 -0700</pubDate>
+            <link>https://github.com/caseyf1988/forgeclipro-releases/releases</link>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>202609160606</sparkle:version>
+            <sparkle:shortVersionString>1.0.2-dev.1130</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description>&lt;h2&gt;Forge Pro 1.0.2-dev.1130&lt;/h2&gt;
+&lt;p&gt;Build 202609160606 · commit 090035e0 · beta channel&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;fix: integrate reviewed bounded replay transfer correction&lt;/li&gt;
+&lt;li&gt;feat: report elapsed Beta release phases without changing outcomes&lt;/li&gt;
+&lt;li&gt;fix: recheck exited build groups after signal denial&lt;/li&gt;
+&lt;li&gt;fix: preserve workflow action ownership and model choices&lt;/li&gt;
+&lt;li&gt;fix: pin workflow admission and avoid sync before execution&lt;/li&gt;
+&lt;li&gt;fix: preserve workflow saves and attributed catalog recovery&lt;/li&gt;
+&lt;li&gt;feat: edit and reorder Roadmap features without losing pending work&lt;/li&gt;
+&lt;li&gt;fix: release pristine Roadmap state while preserving pending work&lt;/li&gt;
+&lt;li&gt;fix: preserve saved Roadmap model choice labels&lt;/li&gt;
+&lt;li&gt;fix(roadmaps): preserve shared guidance and prevent silent truncation&lt;/li&gt;
+&lt;li&gt;fix(installer): resolve device identifiers across Xcode versions&lt;/li&gt;
+&lt;li&gt;fix(roadmaps): preserve effective model effort across consumers&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <enclosure url="https://github.com/caseyf1988/forgeclipro-releases/releases/download/macos-v1.0.2-dev.1130-202609160606/ForgeCLI-Pro-1.0.2-dev.1130.dmg" length="201488990" type="application/octet-stream" sparkle:edSignature="gQMeqqgYWCZyLpyj3ONYKagMsJqPa/kHMilP7rZSRGUNg4YGJhhazbbFqlFTZyfROfql+UruD6DAf3HLw0oSCQ==" />
+        </item>
+    <item>
             <title>1.0.2-dev.1101</title>
             <pubDate>Tue, 15 Sep 2026 07:24:07 -0700</pubDate>
             <link>https://github.com/caseyf1988/forgeclipro-releases/releases</link>
