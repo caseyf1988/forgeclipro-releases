@@ -2,6 +2,30 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <item>
+            <title>1.0.2-dev.1182</title>
+            <pubDate>Thu, 17 Sep 2026 20:26:05 -0700</pubDate>
+            <link>https://github.com/caseyf1988/forgeclipro-releases/releases</link>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>202609172014</sparkle:version>
+            <sparkle:shortVersionString>1.0.2-dev.1182</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description>&lt;h2&gt;Forge Pro 1.0.2-dev.1182&lt;/h2&gt;
+&lt;p&gt;Build 202609172014 · commit 379360d9 · beta channel&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;feat(server): integrate reviewed private first-run setup&lt;/li&gt;
+&lt;li&gt;fix(server): correct and verify private first-run configuration guidance&lt;/li&gt;
+&lt;li&gt;feat(server): integrate reviewed bounded runtime preparation&lt;/li&gt;
+&lt;li&gt;feat(tasks): integrate reviewed full-plan export&lt;/li&gt;
+&lt;li&gt;feat(tasks): integrate reviewed current-plan recovery reader&lt;/li&gt;
+&lt;li&gt;feat: report verified standalone package startup source&lt;/li&gt;
+&lt;li&gt;fix: preserve physical install targets and verify Dev 1150&lt;/li&gt;
+&lt;li&gt;fix: integrate reviewed non-destructive promotion preparation&lt;/li&gt;
+&lt;li&gt;fix: integrate reviewed update restart recovery with current user consent&lt;/li&gt;
+&lt;li&gt;feat: prepare verifiable pinned standalone server packages&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <enclosure url="https://github.com/caseyf1988/forgeclipro-releases/releases/download/macos-v1.0.2-dev.1182-202609172014/ForgeCLI-Pro-1.0.2-dev.1182.dmg" length="197500555" type="application/octet-stream" sparkle:edSignature="Ro1dLk8i2wit0LR+9I7txF/sYeah8A5l1RovDdbProkVKGX7oTgWz2W5892lXC9kkgwUe+2ElAaLCakHQtIWBg==" />
+        </item>
+    <item>
             <title>1.0.2-dev.1141</title>
             <pubDate>Wed, 16 Sep 2026 10:35:40 -0700</pubDate>
             <link>https://github.com/caseyf1988/forgeclipro-releases/releases</link>
