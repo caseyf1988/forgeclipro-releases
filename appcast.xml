@@ -2,6 +2,27 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <item>
+            <title>1.1.0-dev.6</title>
+            <pubDate>Tue, 22 Sep 2026 14:05:11 -0400</pubDate>
+            <link>https://github.com/caseyf1988/forgeclipro-releases/releases</link>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>202609221356</sparkle:version>
+            <sparkle:shortVersionString>1.1.0-dev.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description>&lt;h2&gt;Forge Pro 1.1.0-dev.6&lt;/h2&gt;
+&lt;p&gt;Build 202609221356 · commit 5d6bde38 · beta channel&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Add Opus 5.5 with a single model choice and 1M context by default.&lt;/li&gt;
+&lt;li&gt;Improve Claude session continuity and supported Plan with Full access behavior.&lt;/li&gt;
+&lt;li&gt;Fix Settings request acknowledgement across reconnects.&lt;/li&gt;
+&lt;li&gt;Improve model catalog updates, usage gauge freshness, and thread navigation.&lt;/li&gt;
+&lt;li&gt;Refine thread alignment and surface tab controls.&lt;/li&gt;
+&lt;li&gt;Allow text and image-only follow-ups to queue during active runs while preserving compaction Stop controls.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <enclosure url="https://github.com/caseyf1988/forgeclipro-releases/releases/download/macos-v1.1.0-dev.6-202609221356/ForgeCLI-Pro-1.1.0-dev.6.dmg" length="208654403" type="application/octet-stream" sparkle:edSignature="agr+2XVcdnFnRO5F7lEAzbPFD5XgO8xgZAoAnGvv+SYqwXg1CMofPSSYrYFl64KC/RnC7yQUPzVFj5iGgjP4AQ==" />
+        </item>
+    <item>
             <title>1.0.2-dev.1209</title>
             <pubDate>Mon, 21 Sep 2026 18:38:48 -0400</pubDate>
             <link>https://github.com/caseyf1988/forgeclipro-releases/releases</link>
