@@ -2,6 +2,24 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <item>
+            <title>1.1.0-dev.101</title>
+            <pubDate>Wed, 23 Sep 2026 07:10:37 -0400</pubDate>
+            <link>https://github.com/caseyf1988/forgeclipro-releases/releases</link>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>202609230701</sparkle:version>
+            <sparkle:shortVersionString>1.1.0-dev.101</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description>&lt;h2&gt;Forge Pro 1.1.0-dev.101&lt;/h2&gt;
+&lt;p&gt;Build 202609230701 · commit b6a51141 · beta channel&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;feat(#651) slice 2: the composer + attaches PDFs and text documents where the model can read them&lt;/li&gt;
+&lt;li&gt;feat(#651) slice 1: server accepts PDF and text document attachments per provider&lt;/li&gt;
+&lt;li&gt;fix(#648 follow-up): judge a native Codex install against its own release channel&lt;/li&gt;
+&lt;li&gt;fix: Claude native goal qualified on CLI 2.1.280 (every app goal was refused after the SDK bump)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <enclosure url="https://github.com/caseyf1988/forgeclipro-releases/releases/download/macos-v1.1.0-dev.101-202609230701/ForgeCLI-Pro-1.1.0-dev.101.dmg" length="209290069" type="application/octet-stream" sparkle:edSignature="03dItPf9oZfB6AWbqtyI2vlpYjZML5QmzRfsIIvm2e4Q8MZ8lkXzQcl9xv/56r3OAwHVICLMHu3yEyPvYLaeBw==" />
+        </item>
+    <item>
             <title>1.1.0-dev.45</title>
             <pubDate>Tue, 22 Sep 2026 22:32:19 -0400</pubDate>
             <link>https://github.com/caseyf1988/forgeclipro-releases/releases</link>
