@@ -2,6 +2,24 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <item>
+            <title>1.1.0-dev.545</title>
+            <pubDate>Sat, 26 Sep 2026 13:04:46 -0400</pubDate>
+            <link>https://github.com/caseyf1988/forgeclipro-releases/releases</link>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>202609261047</sparkle:version>
+            <sparkle:shortVersionString>1.1.0-dev.545</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description>&lt;h2&gt;Forge Pro 1.1.0-dev.545&lt;/h2&gt;
+&lt;p&gt;Build 202609261047 · commit d331270ff · beta channel&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Improved project relocation, retained-copy controls, and checks before moving a project.&lt;/li&gt;
+&lt;li&gt;Added clearer reasoning summaries and refined thread presentation.&lt;/li&gt;
+&lt;li&gt;Reliability improvements for settings, provider configuration, and connections.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <enclosure url="https://github.com/caseyf1988/forgeclipro-releases/releases/download/macos-v1.1.0-dev.545-202609261047/ForgeCLI-Pro-1.1.0-dev.545.dmg" length="212817910" type="application/octet-stream" sparkle:edSignature="l/FEREQu9aR3rVwzuYOVGJqsDlrO+Cwothcw4bgIPVieV+e9JOUCRKqXD299AMaNFl1EOdHGlVUUpCElUWPCBQ==" />
+        </item>
+    <item>
             <title>1.1.0-dev.286</title>
             <pubDate>Thu, 24 Sep 2026 07:17:55 -0400</pubDate>
             <link>https://github.com/caseyf1988/forgeclipro-releases/releases</link>

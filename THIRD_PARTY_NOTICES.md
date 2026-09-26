@@ -1,19 +1,11 @@
 # Third-party notices — Forge Pro (ForgeCLI Pro)
 
-Forge Pro is an independent implementation: a native Swift client for macOS, iOS and iPadOS
-and a Node.js backend. A few modules of the bundled Node companion adapt code from
-[T3 Code](https://github.com/pingdotgg/t3code) (T3 Tools Inc., MIT): shell PATH discovery,
-the source-control host rules, the GitLab / Azure DevOps / Bitbucket command and endpoint
-surfaces, and the attachment id scheme — each such file names its source in a header. The
-macOS app updates itself with **Sparkle**, and the companion bundles the npm packages listed in
-`THIRD_PARTY_NOTICES-companion.txt` (generated at build time). The notices below are
-reproduced verbatim, as their licenses require.
+License notices for third-party components included in Forge Pro. The macOS companion's
+additional dependency notices are in `THIRD_PARTY_NOTICES-companion.txt`.
 
 ---
 
 ## T3 Code — MIT License
-
-Source: https://github.com/pingdotgg/t3code
 
 ```
 MIT License
@@ -631,21 +623,30 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 The macOS app bundles a Node.js runtime (Node.js contributors, MIT) and the npm packages
 listed in `THIRD_PARTY_NOTICES-companion.txt` next to this file, each with its license text.
 
-## Design references (no code)
+## SwiftTerm — MIT License
 
-Claude Code, Codex, opencode and T3 Code's client informed interaction design; no code from
-them is included in the Swift client.
+```text
+Copyright (c) 2019-2026 Miguel de Icaza (https://github.com/migueldeicaza)
+Copyright (c) 2017-2019, The xterm.js authors (https://github.com/xtermjs/xterm.js)
+Copyright (c) 2014-2016, SourceLair Private Company (https://www.sourcelair.com)
+Copyright (c) 2012-2013, Christopher Jeffrey (https://github.com/chjj/)
 
-## SwiftTerm
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of this software and associated documentation files (the
+"Software"), to deal in the Software without restriction, including
+without limitation the rights to use, copy, modify, merge, publish,
+distribute, sublicense, and/or sell copies of the Software, and to
+permit persons to whom the Software is furnished to do so, subject to
+the following conditions:
 
-The terminal surface (iOS + macOS) uses **SwiftTerm** by Miguel de Icaza — a VT100/xterm
-terminal emulator — under the MIT License. https://github.com/migueldeicaza/SwiftTerm
-Forge pins v1.20.0 (5d14406844143538cd8f8851d2d8a67c1fe443e5), with a local patch
-that disables file/shared-memory Kitty image transport on Apple clients. Inline images remain supported.
+The above copyright notice and this permission notice shall be
+included in all copies or substantial portions of the Software.
 
-MIT License. Copyright (c) Miguel de Icaza. Permission is hereby granted, free of charge, to any
-person obtaining a copy of this software and associated documentation files (the "Software"), to
-deal in the Software without restriction, including without limitation the rights to use, copy,
-modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit
-persons to whom the Software is furnished to do so, subject to the standard MIT conditions and
-warranty disclaimer.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
+LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
+OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
+WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+```
