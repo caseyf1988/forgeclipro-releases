@@ -2,6 +2,23 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <item>
+            <title>1.1.2-dev.13</title>
+            <pubDate>Tue, 29 Sep 2026 12:40:49 -0400</pubDate>
+            <link>https://github.com/caseyf1988/forgeclipro-releases/releases</link>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>202609291230</sparkle:version>
+            <sparkle:shortVersionString>1.1.2-dev.13</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description>&lt;h2&gt;Forge Pro 1.1.2-dev.13&lt;/h2&gt;
+&lt;p&gt;Build 202609291230 · commit fd7ad839e · beta channel&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;feat: add per-device Codex Thinking expansion preference&lt;/li&gt;
+&lt;li&gt;fix: connect selected server while hosted startup is pending&lt;/li&gt;
+&lt;li&gt;fix: retain completion-read identity and recover pending acknowledgments&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <enclosure url="https://github.com/caseyf1988/forgeclipro-releases/releases/download/macos-v1.1.2-dev.13-202609291230/ForgeCLI-Pro-1.1.2-dev.13.dmg" length="213413387" type="application/octet-stream" sparkle:edSignature="1STQaaOci6383lXCoTdM1jBoeIwNDk/FcJ7MaGfhh3c1zdtly5MP1IOV8Ypzw7OZsQR5b+F3wwBopihWghcsBw==" />
+        </item>
+    <item>
             <title>1.1.1-dev.96</title>
             <pubDate>Tue, 29 Sep 2026 07:14:43 -0400</pubDate>
             <link>https://github.com/caseyf1988/forgeclipro-releases/releases</link>
