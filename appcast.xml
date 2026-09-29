@@ -2,6 +2,25 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <item>
+            <title>1.1.2-dev.35</title>
+            <pubDate>Tue, 29 Sep 2026 19:36:27 -0400</pubDate>
+            <link>https://github.com/caseyf1988/forgeclipro-releases/releases</link>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>202609291926</sparkle:version>
+            <sparkle:shortVersionString>1.1.2-dev.35</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description>&lt;h2&gt;Forge Pro 1.1.2-dev.35&lt;/h2&gt;
+&lt;p&gt;Build 202609291926 · commit bc4d1cc28 · beta channel&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;fix(move): name the mid-move switch as a pause; carry only what the remote lacks&lt;/li&gt;
+&lt;li&gt;feat(apple): add selected-server Codex sign-in controls&lt;/li&gt;
+&lt;li&gt;feat(codex): integrate private server sign-in and account custody&lt;/li&gt;
+&lt;li&gt;feat: add private Codex device-code sign-in broker foundation&lt;/li&gt;
+&lt;li&gt;Additional fixes and improvements.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <enclosure url="https://github.com/caseyf1988/forgeclipro-releases/releases/download/macos-v1.1.2-dev.35-202609291926/ForgeCLI-Pro-1.1.2-dev.35.dmg" length="215576450" type="application/octet-stream" sparkle:edSignature="Vu98zjgl9X9FjPhRz2i5zx5O5WzW2MBY3cKMoPPwqoolYj7oTDdcvJ9V/4Wyv8AxzsY089/aPHwGE8XeB2BmBg==" />
+        </item>
+    <item>
             <title>1.1.2-dev.13</title>
             <pubDate>Tue, 29 Sep 2026 12:40:49 -0400</pubDate>
             <link>https://github.com/caseyf1988/forgeclipro-releases/releases</link>
