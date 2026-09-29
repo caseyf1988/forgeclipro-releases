@@ -2,6 +2,21 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <item>
+            <title>1.1.1-dev.96</title>
+            <pubDate>Tue, 29 Sep 2026 07:14:43 -0400</pubDate>
+            <link>https://github.com/caseyf1988/forgeclipro-releases/releases</link>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>202609290704</sparkle:version>
+            <sparkle:shortVersionString>1.1.1-dev.96</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description>&lt;h2&gt;Forge Pro 1.1.1-dev.96&lt;/h2&gt;
+&lt;p&gt;Build 202609290704 · commit ee2b35c72 · beta channel&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;fix: keep automatic release notes publishable and fail early&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <enclosure url="https://github.com/caseyf1988/forgeclipro-releases/releases/download/macos-v1.1.1-dev.96-202609290704/ForgeCLI-Pro-1.1.1-dev.96.dmg" length="216617423" type="application/octet-stream" sparkle:edSignature="1//1DRIZVBg8MzSFs/bhK5JCWwI86IOX812Q1M7F7sEhVlC5+3YChBLfXXuxdFZN8EmhD5Dkw/c8BDtXDFWgDA==" />
+        </item>
+    <item>
             <title>1.1.0-dev.545</title>
             <pubDate>Sat, 26 Sep 2026 13:04:46 -0400</pubDate>
             <link>https://github.com/caseyf1988/forgeclipro-releases/releases</link>
