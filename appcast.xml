@@ -2,6 +2,23 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <item>
+            <title>1.1.2-dev.38</title>
+            <pubDate>Tue, 29 Sep 2026 21:14:40 -0400</pubDate>
+            <link>https://github.com/caseyf1988/forgeclipro-releases/releases</link>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>202609292100</sparkle:version>
+            <sparkle:shortVersionString>1.1.2-dev.38</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description>&lt;h2&gt;Forge Pro 1.1.2-dev.38&lt;/h2&gt;
+&lt;p&gt;Build 202609292100 · commit e9e30f842 · beta channel&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;fix(claude): use the same installed CLI for execution and provider maintenance&lt;/li&gt;
+&lt;li&gt;fix(move): the move bar never promises &amp;quot;Nothing was removed&amp;quot; when it cannot know&lt;/li&gt;
+&lt;li&gt;fix(move): carry the import&amp;#x27;s manifest to retirement when the destination registers its own id&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <enclosure url="https://github.com/caseyf1988/forgeclipro-releases/releases/download/macos-v1.1.2-dev.38-202609292100/ForgeCLI-Pro-1.1.2-dev.38.dmg" length="215298609" type="application/octet-stream" sparkle:edSignature="6gYqkKBFCEZ1cUSalfVU5OKGuyBnwt1qyg4Ld4J2lWfT6hQwacuPbdzyyOT7gnD6IQujNVDCaBdfp/B9NYKGCQ==" />
+        </item>
+    <item>
             <title>1.1.2-dev.35</title>
             <pubDate>Tue, 29 Sep 2026 19:36:27 -0400</pubDate>
             <link>https://github.com/caseyf1988/forgeclipro-releases/releases</link>
