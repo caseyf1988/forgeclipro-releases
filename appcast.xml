@@ -2,6 +2,26 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <item>
+            <title>1.1.4-dev.15</title>
+            <pubDate>Wed, 30 Sep 2026 17:45:57 -0400</pubDate>
+            <link>https://github.com/caseyf1988/forgeclipro-releases/releases</link>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>202609301735</sparkle:version>
+            <sparkle:shortVersionString>1.1.4-dev.15</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description>&lt;h2&gt;Forge Pro 1.1.4-dev.15&lt;/h2&gt;
+&lt;p&gt;Build 202609301735 · commit 52a0da1ba · beta channel&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;fix: isolate workspace admission from stalled filesystems&lt;/li&gt;
+&lt;li&gt;perf: skip unrelated project filesystems in run policy checks&lt;/li&gt;
+&lt;li&gt;perf: skip unrelated project filesystems in run policy checks&lt;/li&gt;
+&lt;li&gt;fix: show Local work in progress and preserve bounded run continuity&lt;/li&gt;
+&lt;li&gt;fix: keep hosted Mac runs visible across server selection&lt;/li&gt;
+&lt;li&gt;fix: isolate Add Project filesystem checks from server event loop&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <enclosure url="https://github.com/caseyf1988/forgeclipro-releases/releases/download/macos-v1.1.4-dev.15-202609301735/ForgeCLI-Pro-1.1.4-dev.15.dmg" length="216627903" type="application/octet-stream" sparkle:edSignature="KGKKEZWhJ5MO8y/jQMRYw7pBZkCbFfgWonHzimFYE+m6L3PVjYQtdzdTGSbUM34A0YQgrUkDgzc40zEmCNSHAw==" />
+        </item>
+    <item>
             <title>1.1.3-dev.4</title>
             <pubDate>Wed, 30 Sep 2026 09:12:40 -0400</pubDate>
             <link>https://github.com/caseyf1988/forgeclipro-releases/releases</link>
