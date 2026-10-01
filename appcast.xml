@@ -2,6 +2,21 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <item>
+            <title>1.4.1-dev.2</title>
+            <pubDate>Thu, 01 Oct 2026 18:42:09 -0400</pubDate>
+            <link>https://github.com/caseyf1988/forgeclipro-releases/releases</link>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>202610011827</sparkle:version>
+            <sparkle:shortVersionString>1.4.1-dev.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description>&lt;h2&gt;Forge Pro 1.4.1-dev.2&lt;/h2&gt;
+&lt;p&gt;Build 202610011827 · commit f4901dea2 · beta channel&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;Maintenance update from the verified build.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <enclosure url="https://github.com/caseyf1988/forgeclipro-releases/releases/download/macos-v1.4.1-dev.2-202610011827/ForgeCLI-Pro-1.4.1-dev.2.dmg" length="217374212" type="application/octet-stream" sparkle:edSignature="InYsPIZArXatbFrAWbdy3+zyNzeUfnrmF+gi3EGd63Tl3X1R5I6ZkmuVw+Hd3a39OnXd1JrjSpAfnvQuD8rhCQ==" />
+        </item>
+    <item>
             <title>1.3.0-dev.0</title>
             <pubDate>Thu, 01 Oct 2026 13:48:37 -0400</pubDate>
             <link>https://github.com/caseyf1988/forgeclipro-releases/releases</link>
