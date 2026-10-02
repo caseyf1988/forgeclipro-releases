@@ -2,6 +2,22 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <item>
+            <title>1.4.4-dev.1</title>
+            <pubDate>Fri, 02 Oct 2026 12:51:35 -0400</pubDate>
+            <link>https://github.com/caseyf1988/forgeclipro-releases/releases</link>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>202610021241</sparkle:version>
+            <sparkle:shortVersionString>1.4.4-dev.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description>&lt;h2&gt;Forge Pro 1.4.4-dev.1&lt;/h2&gt;
+&lt;p&gt;Build 202610021241 · commit d4a3b33fa · beta channel&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;feat: browse hosting folders and entry files across Apple clients&lt;/li&gt;
+&lt;li&gt;feat: configure Local work limits with a 200-step default&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <enclosure url="https://github.com/caseyf1988/forgeclipro-releases/releases/download/macos-v1.4.4-dev.1-202610021241/ForgeCLI-Pro-1.4.4-dev.1.dmg" length="216517177" type="application/octet-stream" sparkle:edSignature="mEyn9AhKMMuQMGe0I+45KL/T+BLQ5e/m0gil+ffBGBhQ13xFTC/9O6eWaBo9+nGIVS8DhIEQj3cnFsqR9YrYBw==" />
+        </item>
+    <item>
             <title>1.4.3-dev.1</title>
             <pubDate>Fri, 02 Oct 2026 11:17:20 -0400</pubDate>
             <link>https://github.com/caseyf1988/forgeclipro-releases/releases</link>
