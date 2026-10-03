@@ -2,6 +2,21 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <item>
+            <title>1.5.1-dev.3</title>
+            <pubDate>Fri, 02 Oct 2026 21:44:04 -0400</pubDate>
+            <link>https://github.com/caseyf1988/forgeclipro-releases/releases</link>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>202610022139</sparkle:version>
+            <sparkle:shortVersionString>1.5.1-dev.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description>&lt;h2&gt;Forge Pro 1.5.1-dev.3&lt;/h2&gt;
+&lt;p&gt;Build 202610022139 · commit 951ab160a · beta channel&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;fix(connectivity): generate local TLS certificates portably on Linux&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <enclosure url="https://github.com/caseyf1988/forgeclipro-releases/releases/download/macos-v1.5.1-dev.3-202610022139/ForgeCLI-Pro-1.5.1-dev.3.dmg" length="216893599" type="application/octet-stream" sparkle:edSignature="blSsn9HtGn8v4l9lMtypHBhtbXG5QzcJ3EGmyCFkity9oX45B5m/a3F9zyZVOBxg/N05Q+P0xAYeOXzXt62HAg==" />
+        </item>
+    <item>
             <title>1.5.0-dev.1</title>
             <pubDate>Fri, 02 Oct 2026 20:27:49 -0400</pubDate>
             <link>https://github.com/caseyf1988/forgeclipro-releases/releases</link>
