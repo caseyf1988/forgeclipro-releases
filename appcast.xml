@@ -2,6 +2,36 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <item>
+            <title>1.5.2-dev.36</title>
+            <pubDate>Mon, 05 Oct 2026 18:31:24 -0400</pubDate>
+            <link>https://github.com/caseyf1988/forgeclipro-releases/releases</link>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>202610051823</sparkle:version>
+            <sparkle:shortVersionString>1.5.2-dev.36</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description>&lt;h2&gt;Forge Pro 1.5.2-dev.36&lt;/h2&gt;
+&lt;p&gt;Build 202610051823 · commit a8206402f · beta channel&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;fix: finalize inline Thinking and bounded mobile thread hydration&lt;/li&gt;
+&lt;li&gt;fix: qualify bounded Thinking inspectors in native timelines&lt;/li&gt;
+&lt;li&gt;fix: bound Thinking display at complete Unicode characters&lt;/li&gt;
+&lt;li&gt;fix: adopt returned turn state owners in retained rows&lt;/li&gt;
+&lt;li&gt;fix: keep split-turn Copy snapshots owned by the current model&lt;/li&gt;
+&lt;li&gt;fix: refresh visible hover metadata and gate live Thinking wiring&lt;/li&gt;
+&lt;li&gt;fix: preserve hidden Thinking layout and collapsed liveness&lt;/li&gt;
+&lt;li&gt;feat: render identified Thinking blocks in source order&lt;/li&gt;
+&lt;li&gt;fix: preserve final priority in replay compaction&lt;/li&gt;
+&lt;li&gt;fix: retain valid Thinking replay anchors and unfinished text&lt;/li&gt;
+&lt;li&gt;fix: preserve source-owned quiet gaps across Thinking&lt;/li&gt;
+&lt;li&gt;fix: retain Local discovery and availability status through provider folds&lt;/li&gt;
+&lt;li&gt;fix: preserve folded provider status and qualify accessible Scheduled controls&lt;/li&gt;
+&lt;li&gt;fix: integrate reviewed release retry custody and independent phase evidence&lt;/li&gt;
+&lt;li&gt;fix: bound scheduled retention cost and stabilize iOS controls&lt;/li&gt;
+&lt;li&gt;fix: keep scheduled runs separate and unify provider settings cards&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <enclosure url="https://github.com/caseyf1988/forgeclipro-releases/releases/download/macos-v1.5.2-dev.36-202610051823/ForgeCLI-Pro-1.5.2-dev.36.dmg" length="234116624" type="application/octet-stream" sparkle:edSignature="KoBmgcuBHpprhYZo2D6Xal2hnXDsoL7red+91kLlHdRJH6kPjgp8srbCikdHGZCKW/20wbl41azVJWLibnRnCQ==" />
+        </item>
+    <item>
             <title>1.5.2-dev.2</title>
             <pubDate>Sun, 04 Oct 2026 12:30:13 -0400</pubDate>
             <link>https://github.com/caseyf1988/forgeclipro-releases/releases</link>
