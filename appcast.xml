@@ -2,6 +2,24 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <item>
+            <title>1.5.4-dev.22</title>
+            <pubDate>Wed, 07 Oct 2026 15:43:48 -0400</pubDate>
+            <link>https://github.com/caseyf1988/forgeclipro-releases/releases</link>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>202610071532</sparkle:version>
+            <sparkle:shortVersionString>1.5.4-dev.22</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description>&lt;h2&gt;Forge Pro 1.5.4-dev.22&lt;/h2&gt;
+&lt;p&gt;Build 202610071532 · commit 5bdede234 · beta channel&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;fix: complete slow attention polls before the next interval&lt;/li&gt;
+&lt;li&gt;fix: own cross-server attention refresh at the root&lt;/li&gt;
+&lt;li&gt;fix(settings): keep stale account-switch feedback visible&lt;/li&gt;
+&lt;li&gt;fix: preserve private launcher values through guarded edits&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <enclosure url="https://github.com/caseyf1988/forgeclipro-releases/releases/download/macos-v1.5.4-dev.22-202610071532/ForgeCLI-Pro-1.5.4-dev.22.dmg" length="235122689" type="application/octet-stream" sparkle:edSignature="niu3gbeFOOdSh+4tVuAH2hg7Qd4uSL8Nr0DdFz1lgCNAAZFjsh1kCZC+km5/nBM91oNWXKO9XsP9IeuhzZiEDA==" />
+        </item>
+    <item>
             <title>1.5.3-dev.8</title>
             <pubDate>Tue, 06 Oct 2026 08:05:03 -0400</pubDate>
             <link>https://github.com/caseyf1988/forgeclipro-releases/releases</link>
