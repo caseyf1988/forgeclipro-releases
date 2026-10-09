@@ -2,6 +2,25 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <item>
+            <title>1.5.7-dev.56</title>
+            <pubDate>Thu, 08 Oct 2026 23:33:36 -0400</pubDate>
+            <link>https://github.com/caseyf1988/forgeclipro-releases/releases</link>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>202610082320</sparkle:version>
+            <sparkle:shortVersionString>1.5.7-dev.56</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description>&lt;h2&gt;Forge Pro 1.5.7-dev.56&lt;/h2&gt;
+&lt;p&gt;Build 202610082320 · commit 23325c2c5 · beta channel&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;feat: present generated HTML in isolated native previews&lt;/li&gt;
+&lt;li&gt;feat: search messages across configured servers&lt;/li&gt;
+&lt;li&gt;feat: offer live checkout file mentions in the composer&lt;/li&gt;
+&lt;li&gt;feat: recover and manage retained thread checkouts safely&lt;/li&gt;
+&lt;li&gt;fix: retain Git integration ownership through process cleanup&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <enclosure url="https://github.com/caseyf1988/forgeclipro-releases/releases/download/macos-v1.5.7-dev.56-202610082320/ForgeCLI-Pro-1.5.7-dev.56.dmg" length="238060506" type="application/octet-stream" sparkle:edSignature="mV3jBHIsUK1n4oqXeVDeDmCjUYpH5yLDDWI1f0eZgcaTRJeuzefSkqvYYVvguJUH9QAo4Hd2woTdDkY0h9n4DQ==" />
+        </item>
+    <item>
             <title>1.5.7-dev.25</title>
             <pubDate>Thu, 08 Oct 2026 13:26:01 -0400</pubDate>
             <link>https://github.com/caseyf1988/forgeclipro-releases/releases</link>
