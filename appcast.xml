@@ -2,6 +2,25 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <item>
+            <title>1.5.7-dev.94</title>
+            <pubDate>Fri, 09 Oct 2026 19:46:59 -0400</pubDate>
+            <link>https://github.com/caseyf1988/forgeclipro-releases/releases</link>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>202610091934</sparkle:version>
+            <sparkle:shortVersionString>1.5.7-dev.94</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description>&lt;h2&gt;Forge Pro 1.5.7-dev.94&lt;/h2&gt;
+&lt;p&gt;Build 202610091934 · commit bfe094d37 · beta channel&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;feat: prepare and exercise isolated exact-artifact recovery fixtures&lt;/li&gt;
+&lt;li&gt;feat: qualify and publish exact recovery release chains&lt;/li&gt;
+&lt;li&gt;feat: package and qualify exact recovery artifact runtimes&lt;/li&gt;
+&lt;li&gt;feat: add independently supervised server update recovery&lt;/li&gt;
+&lt;li&gt;fix: retire completed companion staging copies after native builds&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <enclosure url="https://github.com/caseyf1988/forgeclipro-releases/releases/download/macos-v1.5.7-dev.94-202610091934/ForgeCLI-Pro-1.5.7-dev.94.dmg" length="239699050" type="application/octet-stream" sparkle:edSignature="uzMi7AT0Zl3msbsDtJJOzHDNU4S+JK6IowhMTmkTRpqkIL6E3E2454KHBZpknE4JrgKwV5gB9diM6Y9cSUEOCg==" />
+        </item>
+    <item>
             <title>1.5.7-dev.56</title>
             <pubDate>Thu, 08 Oct 2026 23:33:36 -0400</pubDate>
             <link>https://github.com/caseyf1988/forgeclipro-releases/releases</link>
