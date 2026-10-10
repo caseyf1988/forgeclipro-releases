@@ -2,6 +2,23 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <item>
+            <title>1.5.7-dev.155</title>
+            <pubDate>Sat, 10 Oct 2026 12:11:44 -0400</pubDate>
+            <link>https://github.com/caseyf1988/forgeclipro-releases/releases</link>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>202610101205</sparkle:version>
+            <sparkle:shortVersionString>1.5.7-dev.155</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description>&lt;h2&gt;Forge Pro 1.5.7-dev.155&lt;/h2&gt;
+&lt;p&gt;Build 202610101205 · commit 44c9f287b · beta channel&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;feat(recovery): add attended Mini controller graph transition&lt;/li&gt;
+&lt;li&gt;fix(recovery): hash canonical archives within qualified reserve&lt;/li&gt;
+&lt;li&gt;fix(recovery): stream exact attended baseline comparisons&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <enclosure url="https://github.com/caseyf1988/forgeclipro-releases/releases/download/macos-v1.5.7-dev.155-202610101205/ForgeCLI-Pro-1.5.7-dev.155.dmg" length="237587700" type="application/octet-stream" sparkle:edSignature="lmYdrZE1Q2tAmZdK+pVPQPdt8+siatADbhefjRL9DSgK7pBnTIBOPTKo4zWHL5E9Fu6hg4EwqhYhtTtoL0PAAA==" />
+        </item>
+    <item>
             <title>1.5.7-dev.94</title>
             <pubDate>Fri, 09 Oct 2026 19:46:59 -0400</pubDate>
             <link>https://github.com/caseyf1988/forgeclipro-releases/releases</link>
