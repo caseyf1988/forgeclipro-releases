@@ -2,6 +2,65 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <item>
+            <title>1.6.0-dev.291</title>
+            <pubDate>Mon, 19 Oct 2026 05:41:16 -0400</pubDate>
+            <link>https://github.com/caseyf1988/forgeclipro-releases/releases</link>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>202610190528</sparkle:version>
+            <sparkle:shortVersionString>1.6.0-dev.291</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description>&lt;h2&gt;Forge Pro 1.6.0-dev.291&lt;/h2&gt;
+&lt;p&gt;Build 202610190528 · commit fb91b9208 · beta channel&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;fix(workflow): retain identified failed attempts across reconnect&lt;/li&gt;
+&lt;li&gt;feat: show owned adoption failure step reports&lt;/li&gt;
+&lt;li&gt;fix: retain tool parents and keep deeply nested work visible&lt;/li&gt;
+&lt;li&gt;feat: surface reported terminal starting directory&lt;/li&gt;
+&lt;li&gt;feat: show reported retained-copy move completion date&lt;/li&gt;
+&lt;li&gt;fix: retain bounded companion cleanup refusal diagnostics&lt;/li&gt;
+&lt;li&gt;feat: retain and display reported Roadmap verification evidence&lt;/li&gt;
+&lt;li&gt;feat: add inline Interactive Issues with scoped response and action handling&lt;/li&gt;
+&lt;li&gt;feat: batch offline thread ideas with durable delivery identity&lt;/li&gt;
+&lt;li&gt;feat: compact recurring Needs You completions into semantic stacks&lt;/li&gt;
+&lt;li&gt;feat: add project-scoped conversation history tools for providers&lt;/li&gt;
+&lt;li&gt;fix: stage friendly desktop host bundles with preserved custody&lt;/li&gt;
+&lt;li&gt;fix: bind adoption success to its requesting operation&lt;/li&gt;
+&lt;li&gt;fix: gate PR mutations by host action support&lt;/li&gt;
+&lt;li&gt;fix(bitbucket): preserve reported pull request draft state&lt;/li&gt;
+&lt;li&gt;feat(pr): show validated merge dates with scoped confirmation&lt;/li&gt;
+&lt;li&gt;fix(codex): wait for submitted turn identity before Stop&lt;/li&gt;
+&lt;li&gt;fix(auth): bind GitHub device flow to target and retain stop ownership&lt;/li&gt;
+&lt;li&gt;fix: bind Rig window resize to its current attachment&lt;/li&gt;
+&lt;li&gt;fix: calibrate Settings UI gate from actual test discovery&lt;/li&gt;
+&lt;li&gt;fix: require actual Settings gate test identities&lt;/li&gt;
+&lt;li&gt;feat: search Scheduled transcripts with isolated scope&lt;/li&gt;
+&lt;li&gt;fix: preserve readable adoption and hosted-link refusal guidance&lt;/li&gt;
+&lt;li&gt;fix(git): bind contextual PR actions to verified push identity&lt;/li&gt;
+&lt;li&gt;fix: require versioned boot session authority for managed recovery&lt;/li&gt;
+&lt;li&gt;feat: add guarded managed server controls and qualification intake&lt;/li&gt;
+&lt;li&gt;fix: guard attended managed recovery across boots&lt;/li&gt;
+&lt;li&gt;fix: bound managed qualification fixture socket placement&lt;/li&gt;
+&lt;li&gt;fix: isolate automation filesystem and gate operations&lt;/li&gt;
+&lt;li&gt;fix: isolate completion sync and preserve terminal ownership&lt;/li&gt;
+&lt;li&gt;fix: isolate and safeguard local project moves&lt;/li&gt;
+&lt;li&gt;fix: isolate direct remote edits with shared Git custody&lt;/li&gt;
+&lt;li&gt;fix: isolate bundle exports and recover uncertain outcomes&lt;/li&gt;
+&lt;li&gt;fix(git): isolate ignore writes and preserve uncertain outcomes&lt;/li&gt;
+&lt;li&gt;fix(git): retain commit custody across shared repository roots&lt;/li&gt;
+&lt;li&gt;fix: recover scheduled completion stamps durably without blocking admission&lt;/li&gt;
+&lt;li&gt;fix: recover run controls after accepted markerless replay completion&lt;/li&gt;
+&lt;li&gt;fix: persist automatic checks Off when repairing a malformed interval&lt;/li&gt;
+&lt;li&gt;fix: preserve native headroom and surface cumulative storage growth&lt;/li&gt;
+&lt;li&gt;feat: add once-per-hold automatic Codex quota continuation&lt;/li&gt;
+&lt;li&gt;feat(apple): show Codex quota holds and explicit resume once&lt;/li&gt;
+&lt;li&gt;feat: add guarded manual Codex quota continuation&lt;/li&gt;
+&lt;li&gt;fix(apple): clear first iPad message below top chrome&lt;/li&gt;
+&lt;li&gt;fix(recovery): bind immutable artifact facts during graph qualification&lt;/li&gt;
+&lt;li&gt;fix: accept immutable artifact facts at native fixture gate&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <enclosure url="https://github.com/caseyf1988/forgeclipro-releases/releases/download/macos-v1.6.0-dev.291-202610190528/ForgeCLI-Pro-1.6.0-dev.291.dmg" length="239566879" type="application/octet-stream" sparkle:edSignature="ZPfHKYt6zX1s3D4hU6GjIQvqv56VZdTjAeh4uVZIArW2qjhn7O9OGhyzzKiqcfwNuLWwSQu6sG4EGt7VoQLICQ==" />
+        </item>
+    <item>
             <title>1.5.7-dev.155</title>
             <pubDate>Sat, 10 Oct 2026 12:11:44 -0400</pubDate>
             <link>https://github.com/caseyf1988/forgeclipro-releases/releases</link>
