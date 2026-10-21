@@ -654,24 +654,27 @@ WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 ---
 
-## Orbitron Black — SIL Open Font License 1.1
+## Rubik Glitch Regular — SIL Open Font License 1.1
 
-Copyright 2018 The Orbitron Project Authors (https://github.com/theleagueof/orbitron), with Reserved Font Name: "Orbitron".
-Designed by Matt McInerney; distributed under the SIL Open Font License 1.1. See `Orbitron-OFL.txt` in this resource bundle for the complete license. Unmodified font asset; not a source-code donor or package dependency.
+Copyright 2020 The Rubik Filtered Project Authors (https://github.com/NaN-xyz/Rubik-Filtered).
+Designed by NaN and Luke Prowse; distributed under the SIL Open Font License 1.1. See `RubikGlitch-OFL.txt` in this resource bundle for the complete original license. Unmodified original TTF; not a source-code donor or package dependency. The original upstream metadata is preserved in `RubikGlitch-METADATA.pb`.
 
-Official upstream: https://github.com/googlefonts/orbitron-vf
-Pinned commit: f16482824e0ce4d008dee59b9b632e9ce9663359
-Asset: fonts/ttf/Orbitron-Black.ttf
-SHA-256: d14556bb752f3184619ea366b7e7e5562aa39b07cd763297a22ff64f8fc5c1bc
-PostScript name: Orbitron-Black
-License SHA-256: ab609b0e110d622435ff337cdf233288556e011bbf9bd0550be98846c0630819
+Official distribution: https://github.com/google/fonts
+Pinned distribution commit: 47d54ca1ebb14fd864695f1d39dc734f39017c33
+Asset: ofl/rubikglitch/RubikGlitch-Regular.ttf
+SHA-256: 260245012483d56956269100ebece747aa95b4b67e5a9411a81a36e91f55e653
+PostScript name: RubikGlitch-Regular
+License SHA-256: f9e2d4498ea80d38bac7b8841d68af68c132fa67e1552e7c05717e6987de1d74
+Metadata SHA-256: 3878aec67d50c1865473d03527850d9c30725051a1e343afbe7e13195b013046
+Source repository declared by upstream metadata: https://github.com/NaN-xyz/Rubik-Filtered
+Declared source commit: 70c5affdb044fecf4eb4988c320b8bfa8e8005c6
 
 ```
-Copyright 2018 The Orbitron Project Authors (https://github.com/theleagueof/orbitron), with Reserved Font Name: "Orbitron"
+Copyright 2020 The Rubik Filtered Project Authors (https://https://github.com/NaN-xyz/Rubik-Filtered)
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
-http://scripts.sil.org/OFL
+https://scripts.sil.org/OFL
 
 
 -----------------------------------------------------------

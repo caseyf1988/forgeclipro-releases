@@ -2,6 +2,21 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <item>
+            <title>1.6.0-dev.438</title>
+            <pubDate>Wed, 21 Oct 2026 16:38:54 -0400</pubDate>
+            <link>https://github.com/caseyf1988/forgeclipro-releases/releases</link>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>202610211626</sparkle:version>
+            <sparkle:shortVersionString>1.6.0-dev.438</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description>&lt;h2&gt;Forge Pro 1.6.0-dev.438&lt;/h2&gt;
+&lt;p&gt;Build 202610211626 · commit 8870d4c29 · beta channel&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;fix: restore approved Rubik Glitch stamp and soften opacity&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <enclosure url="https://github.com/caseyf1988/forgeclipro-releases/releases/download/macos-v1.6.0-dev.438-202610211626/ForgeCLI-Pro-1.6.0-dev.438.dmg" length="245462415" type="application/octet-stream" sparkle:edSignature="zA7XRtdi7X9rQRWokqu5meN+fRxM5B7ezaMDwqZuJiHA8SCn+p9ausx0NsuStm+AN6UtRb/XG42nKv1DLSHgDg==" />
+        </item>
+    <item>
             <title>1.6.0-dev.425</title>
             <pubDate>Wed, 21 Oct 2026 12:41:56 -0400</pubDate>
             <link>https://github.com/caseyf1988/forgeclipro-releases/releases</link>
