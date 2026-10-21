@@ -2,6 +2,21 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <item>
+            <title>1.6.0-dev.442</title>
+            <pubDate>Wed, 21 Oct 2026 18:11:13 -0400</pubDate>
+            <link>https://github.com/caseyf1988/forgeclipro-releases/releases</link>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>202610211759</sparkle:version>
+            <sparkle:shortVersionString>1.6.0-dev.442</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description>&lt;h2&gt;Forge Pro 1.6.0-dev.442&lt;/h2&gt;
+&lt;p&gt;Build 202610211759 · commit dce1daa41 · beta channel&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;feat: filter and sort interactive tasks by category&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <enclosure url="https://github.com/caseyf1988/forgeclipro-releases/releases/download/macos-v1.6.0-dev.442-202610211759/ForgeCLI-Pro-1.6.0-dev.442.dmg" length="245365657" type="application/octet-stream" sparkle:edSignature="fv01lhtKPw60y4YO+pThyK+qDaTyHzd7JLGdt2QNZ0sR7nBHtBvSGFnuZaNnBhQ9ic+VstX3ruL5B8MsfDhBAA==" />
+        </item>
+    <item>
             <title>1.6.0-dev.438</title>
             <pubDate>Wed, 21 Oct 2026 16:38:54 -0400</pubDate>
             <link>https://github.com/caseyf1988/forgeclipro-releases/releases</link>
