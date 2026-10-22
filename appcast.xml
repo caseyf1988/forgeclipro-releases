@@ -2,6 +2,23 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <item>
+            <title>1.6.0-dev.451</title>
+            <pubDate>Thu, 22 Oct 2026 18:33:33 -0400</pubDate>
+            <link>https://github.com/caseyf1988/forgeclipro-releases/releases</link>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>202610221821</sparkle:version>
+            <sparkle:shortVersionString>1.6.0-dev.451</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description>&lt;h2&gt;Forge Pro 1.6.0-dev.451&lt;/h2&gt;
+&lt;p&gt;Build 202610221821 · commit 0bbd7000b · beta channel&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;feat: link saved resets from quota gauge and Codex settings&lt;/li&gt;
+&lt;li&gt;feat: add guarded OpenAI saved reset controls&lt;/li&gt;
+&lt;li&gt;fix(goal-guard): recheck blocked goals every fifteen minutes&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <enclosure url="https://github.com/caseyf1988/forgeclipro-releases/releases/download/macos-v1.6.0-dev.451-202610221821/ForgeCLI-Pro-1.6.0-dev.451.dmg" length="243303031" type="application/octet-stream" sparkle:edSignature="4pC1m0zsn+ukkiUU5bMkMGiTaNxDXApaKooZ8CFOgkHKmHcO9chXKPEMyBRPU1O2cDpjYsQO70aI14cBjFZvCg==" />
+        </item>
+    <item>
             <title>1.6.0-dev.442</title>
             <pubDate>Wed, 21 Oct 2026 18:11:13 -0400</pubDate>
             <link>https://github.com/caseyf1988/forgeclipro-releases/releases</link>
