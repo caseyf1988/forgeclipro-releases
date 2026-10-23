@@ -2,6 +2,24 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <item>
+            <title>1.6.0-dev.464</title>
+            <pubDate>Fri, 23 Oct 2026 13:10:38 -0400</pubDate>
+            <link>https://github.com/caseyf1988/forgeclipro-releases/releases</link>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>202610231258</sparkle:version>
+            <sparkle:shortVersionString>1.6.0-dev.464</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description>&lt;h2&gt;Forge Pro 1.6.0-dev.464&lt;/h2&gt;
+&lt;p&gt;Build 202610231258 · commit 5c0882226 · beta channel&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;fix: show partial provider cost without hiding known usage&lt;/li&gt;
+&lt;li&gt;fix: preserve access choice across unknown server consent&lt;/li&gt;
+&lt;li&gt;fix: allow paired MagicDNS polls on macOS like iOS&lt;/li&gt;
+&lt;li&gt;fix: highlight saved reset shortcut on hover&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <enclosure url="https://github.com/caseyf1988/forgeclipro-releases/releases/download/macos-v1.6.0-dev.464-202610231258/ForgeCLI-Pro-1.6.0-dev.464.dmg" length="244320213" type="application/octet-stream" sparkle:edSignature="2MaMPwdGyq3WJJUWNbBEqnQx6VDgevY6OTyHuhDtoA5zVWG8vX0IokRWWV7uMOtMYMYyZy0OQD0+gR07NlqbAQ==" />
+        </item>
+    <item>
             <title>1.6.0-dev.451</title>
             <pubDate>Thu, 22 Oct 2026 18:33:33 -0400</pubDate>
             <link>https://github.com/caseyf1988/forgeclipro-releases/releases</link>
