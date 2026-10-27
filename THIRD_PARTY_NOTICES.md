@@ -764,3 +764,15 @@ DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
 FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM
 OTHER DEALINGS IN THE FONT SOFTWARE.
 ```
+
+
+---
+
+## Node.js runtime and npm toolchain
+
+The macOS companion bundles npm from the same distribution as its selected,
+version-pinned Node.js runtime. Original Node.js license text is retained at
+`companion/lib/node-LICENSE`; npm's original license and all dependency notices
+remain in `companion/lib/node_modules/npm/`. The original Node.js and npm license
+texts also appear in `THIRD_PARTY_NOTICES-companion.txt`. The staged toolchain
+inventory records the exact runtime, npm version and copied file digests.

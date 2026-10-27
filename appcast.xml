@@ -2,6 +2,58 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <item>
+            <title>1.6.0-dev.700</title>
+            <pubDate>Tue, 27 Oct 2026 07:51:34 -0400</pubDate>
+            <link>https://github.com/caseyf1988/forgeclipro-releases/releases</link>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>202610270744</sparkle:version>
+            <sparkle:shortVersionString>1.6.0-dev.700</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description>&lt;h2&gt;Forge Pro 1.6.0-dev.700&lt;/h2&gt;
+&lt;p&gt;Build 202610270744 · commit 2632d2a27 · beta channel&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;fix(sidebar): align notice actions and compact mobile buttons&lt;/li&gt;
+&lt;li&gt;fix(installer): refuse replacement when running activity is unknown&lt;/li&gt;
+&lt;li&gt;fix: show active Claude verification without raw status warnings&lt;/li&gt;
+&lt;li&gt;fix: invalidate stale model readiness before generation retests&lt;/li&gt;
+&lt;li&gt;fix: clarify pending Claude sign-in renewal status&lt;/li&gt;
+&lt;li&gt;fix: pin internal temp directory for new private Claude roots&lt;/li&gt;
+&lt;li&gt;feat: privately observe running Claude effective policy&lt;/li&gt;
+&lt;li&gt;fix(providers): preserve review custody and stop ordinary update children&lt;/li&gt;
+&lt;li&gt;fix(providers): bind private Claude observation and managed command cleanup&lt;/li&gt;
+&lt;li&gt;feat(providers): add journaled native Claude update transactions&lt;/li&gt;
+&lt;li&gt;fix(build): retry verified stage retirement while handles settle&lt;/li&gt;
+&lt;li&gt;fix(providers): validate managed Claude child dispatch and isolate health&lt;/li&gt;
+&lt;li&gt;feat(providers): add isolated Claude installation custody&lt;/li&gt;
+&lt;li&gt;feat: verify and stage signed Claude native artifacts safely&lt;/li&gt;
+&lt;li&gt;fix: reuse verified retained provider on explicit update retry&lt;/li&gt;
+&lt;li&gt;fix: use native local auth for offline managed provider health&lt;/li&gt;
+&lt;li&gt;fix: preserve actual Codex model-use history across preflight&lt;/li&gt;
+&lt;li&gt;fix: recognize native Codex maintenance and catalog caches&lt;/li&gt;
+&lt;li&gt;fix: group Needs You notices into expandable categories&lt;/li&gt;
+&lt;li&gt;fix: follow live Terminal context in retained compact sheets&lt;/li&gt;
+&lt;li&gt;fix: deny ordinary preferences in managed provider qualification&lt;/li&gt;
+&lt;li&gt;fix(providers): classify history preservation failures without private data&lt;/li&gt;
+&lt;li&gt;fix(providers): recognize bounded native migration and lock metadata&lt;/li&gt;
+&lt;li&gt;fix(providers): preserve committed SQLite history across checkpoints&lt;/li&gt;
+&lt;li&gt;feat(provider): preserve credential continuity under managed update custody&lt;/li&gt;
+&lt;li&gt;fix(storage): include simulator unified logs in growth monitoring&lt;/li&gt;
+&lt;li&gt;fix: recover provider candidate qualification and history refresh&lt;/li&gt;
+&lt;li&gt;fix: gate provider mutations on completed history qualification&lt;/li&gt;
+&lt;li&gt;fix: qualify persisted raw provider history without invented turns&lt;/li&gt;
+&lt;li&gt;fix: allow exact managed preference reads during qualification&lt;/li&gt;
+&lt;li&gt;fix: allow exact managed preference reads during qualification&lt;/li&gt;
+&lt;li&gt;fix: inherit descriptors in sandbox qualification canary&lt;/li&gt;
+&lt;li&gt;fix: retain bounded synthetic boundary failure diagnostics&lt;/li&gt;
+&lt;li&gt;fix: check companion staging allocation before copying&lt;/li&gt;
+&lt;li&gt;fix(provider-updates): gate macOS policy and preserve interrupted recovery&lt;/li&gt;
+&lt;li&gt;fix(build): include verified npm tools in the companion bundle&lt;/li&gt;
+&lt;li&gt;fix(providers): recover managed updates safely across restarts&lt;/li&gt;
+&lt;li&gt;feat: add scoped provider maintenance controls&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <enclosure url="https://github.com/caseyf1988/forgeclipro-releases/releases/download/macos-v1.6.0-dev.700-202610270744/ForgeCLI-Pro-1.6.0-dev.700.dmg" length="270731922" type="application/octet-stream" sparkle:edSignature="yT0/IX/vkdy4d+RSttN1zL3yH/LrjUrY5FdLMKjQe+rhT2wsQKpBxArqqEKtUHAfPM2j3kH4apjvBNP61gBJDA==" />
+        </item>
+    <item>
             <title>1.6.0-dev.464</title>
             <pubDate>Fri, 23 Oct 2026 13:10:38 -0400</pubDate>
             <link>https://github.com/caseyf1988/forgeclipro-releases/releases</link>
