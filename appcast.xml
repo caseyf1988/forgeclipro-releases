@@ -2,6 +2,49 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <item>
+            <title>1.6.0-dev.853</title>
+            <pubDate>Wed, 28 Oct 2026 22:12:39 -0400</pubDate>
+            <link>https://github.com/caseyf1988/forgeclipro-releases/releases</link>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>202610282205</sparkle:version>
+            <sparkle:shortVersionString>1.6.0-dev.853</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description>&lt;h2&gt;Forge Pro 1.6.0-dev.853&lt;/h2&gt;
+&lt;p&gt;Build 202610282205 · commit bd4a5a23c · beta channel&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;feat: recover interrupted Local compaction through original admission&lt;/li&gt;
+&lt;li&gt;fix(compaction): preserve Stop intent and accepted steering through recovery&lt;/li&gt;
+&lt;li&gt;feat(compaction): restore interrupted Local loop boundaries safely&lt;/li&gt;
+&lt;li&gt;fix(compaction): preserve recovery decisions and adopt verified checkpoints&lt;/li&gt;
+&lt;li&gt;feat: checkpoint Local work before context compaction&lt;/li&gt;
+&lt;li&gt;feat: add explicit required checkpoint compaction policy&lt;/li&gt;
+&lt;li&gt;fix: adopt retained desktop helper only in target enrollment&lt;/li&gt;
+&lt;li&gt;fix: refuse unready desktop naming before service interruption&lt;/li&gt;
+&lt;li&gt;fix: keep Mini bridge name migration recoverable through acceptance&lt;/li&gt;
+&lt;li&gt;fix(codex): qualify restricted reviews against current confinement policy&lt;/li&gt;
+&lt;li&gt;fix: supervise Codex reader qualification children&lt;/li&gt;
+&lt;li&gt;fix: supervise sandbox qualification process groups&lt;/li&gt;
+&lt;li&gt;fix(reviews): retire descendant groups after normal completion&lt;/li&gt;
+&lt;li&gt;fix(providers): supervise managed streaming process groups&lt;/li&gt;
+&lt;li&gt;fix(codex): preserve actual turn outcomes during server shutdown&lt;/li&gt;
+&lt;li&gt;fix: drain managed provider maintenance before closing stores&lt;/li&gt;
+&lt;li&gt;fix: await Codex sign-in cleanup before closing app stores&lt;/li&gt;
+&lt;li&gt;fix: own and drain Codex metadata clients during shutdown&lt;/li&gt;
+&lt;li&gt;fix: drain hosted runs and preserve queued work during shutdown&lt;/li&gt;
+&lt;li&gt;fix: cancel pending server startup when app closes&lt;/li&gt;
+&lt;li&gt;fix: drain companion transports before runtime shutdown&lt;/li&gt;
+&lt;li&gt;fix: qualify automatic host relaunch against boot and installed image&lt;/li&gt;
+&lt;li&gt;feat: offer bounded recovery retries before app startup&lt;/li&gt;
+&lt;li&gt;fix: bind peer ownership capability to its running image&lt;/li&gt;
+&lt;li&gt;fix: add reviewed one-use Mini reboot custody readmission&lt;/li&gt;
+&lt;li&gt;feat: reserve durable update recovery before Sparkle downloads&lt;/li&gt;
+&lt;li&gt;feat: bind background launches and preserve explicit host quit intent&lt;/li&gt;
+&lt;li&gt;feat(persistence): add private state and bounded supervisor recovery core&lt;/li&gt;
+&lt;li&gt;feat(persistence): add authenticated native control and narrow device grants&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <enclosure url="https://github.com/caseyf1988/forgeclipro-releases/releases/download/macos-v1.6.0-dev.853-202610282205/ForgeCLI-Pro-1.6.0-dev.853.dmg" length="271495000" type="application/octet-stream" sparkle:edSignature="iSErpy5b87ZfwT5H+5XrP4RTcS3F38HP8jAI578zTbVyvFCJdHlnshHRvmRVvPY9vVVrv1+YlnLBuMEaecBUCQ==" />
+        </item>
+    <item>
             <title>1.6.0-dev.700</title>
             <pubDate>Tue, 27 Oct 2026 07:51:34 -0400</pubDate>
             <link>https://github.com/caseyf1988/forgeclipro-releases/releases</link>
