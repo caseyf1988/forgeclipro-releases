@@ -2,6 +2,80 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <item>
+            <title>1.6.0-dev.1057</title>
+            <pubDate>Sun, 01 Nov 2026 16:53:18 -0500</pubDate>
+            <link>https://github.com/caseyf1988/forgeclipro-releases/releases</link>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>202611011638</sparkle:version>
+            <sparkle:shortVersionString>1.6.0-dev.1057</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description>&lt;h2&gt;Forge Pro 1.6.0-dev.1057&lt;/h2&gt;
+&lt;p&gt;Build 202611011638 · commit 8814ed43e · beta channel&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;fix: observe qualified typed Claude goal Set receipts&lt;/li&gt;
+&lt;li&gt;fix: replace stale notification settling when Claude rearms a hold&lt;/li&gt;
+&lt;li&gt;fix: integrate reviewed Claude lifecycle corrections with receiver candidate&lt;/li&gt;
+&lt;li&gt;fix: retain receiver close status in disconnected settings&lt;/li&gt;
+&lt;li&gt;feat: add attended native read-only receiver panel&lt;/li&gt;
+&lt;li&gt;fix: resolve native helper identity before provider recovery&lt;/li&gt;
+&lt;li&gt;fix: bound native runtime selection and preserve safe fallback&lt;/li&gt;
+&lt;li&gt;fix: preserve original credential helper in native runtime copies&lt;/li&gt;
+&lt;li&gt;fix: qualify explicit companion backup layout&lt;/li&gt;
+&lt;li&gt;fix(packaging): preserve protected supervisor native code modes&lt;/li&gt;
+&lt;li&gt;fix(companion): share guarded WebSocket routing and cleanup&lt;/li&gt;
+&lt;li&gt;fix(companion): retain app HTTP routing on tailnet listener&lt;/li&gt;
+&lt;li&gt;fix(recovery): bound stopped schema probes separately&lt;/li&gt;
+&lt;li&gt;fix: qualify baseline evidence before publishing controller authority&lt;/li&gt;
+&lt;li&gt;fix: qualify sealed supervisor storage targets before service stop&lt;/li&gt;
+&lt;li&gt;fix(service): approve explicitly qualified initial baselines&lt;/li&gt;
+&lt;li&gt;fix(service): validate prepared storage helper inventory&lt;/li&gt;
+&lt;li&gt;fix(release): recognize packaged native source identity&lt;/li&gt;
+&lt;li&gt;fix(release): constrain native weak-alias privacy exception&lt;/li&gt;
+&lt;li&gt;fix: preserve debug evidence and scrub release symbol paths&lt;/li&gt;
+&lt;li&gt;fix(storage): apply checkpoint policy to project registry writers&lt;/li&gt;
+&lt;li&gt;fix(supervisor): retain uncertain reductions across restart&lt;/li&gt;
+&lt;li&gt;fix(storage): preserve checkpoint sync policy across shared writers&lt;/li&gt;
+&lt;li&gt;feat(supervision): preserve scoped advisory denial evidence&lt;/li&gt;
+&lt;li&gt;feat(supervision): verify enrolled filesystem paths asynchronously&lt;/li&gt;
+&lt;li&gt;feat(supervision): own bounded startup qualification lifecycle&lt;/li&gt;
+&lt;li&gt;fix(supervision): distinguish transient startup outages with generation fencing&lt;/li&gt;
+&lt;li&gt;feat(supervision): retire monitor grants on explicit disable&lt;/li&gt;
+&lt;li&gt;fix(pairing): preserve revocation and device refresh failures&lt;/li&gt;
+&lt;li&gt;fix: strengthen monitor authority reduction commits&lt;/li&gt;
+&lt;li&gt;fix(supervisor): preserve unavailable authority through passive reads&lt;/li&gt;
+&lt;li&gt;fix(supervisor): distinguish permanent holds from retryable closure&lt;/li&gt;
+&lt;li&gt;fix(supervision): protect private state in workspace file readers&lt;/li&gt;
+&lt;li&gt;fix(supervision): protect private state from aliased artifact exports&lt;/li&gt;
+&lt;li&gt;feat(supervision): add private durable witness protocol&lt;/li&gt;
+&lt;li&gt;feat(supervision): record monitor authority generations in SQLite&lt;/li&gt;
+&lt;li&gt;feat(supervision): add guarded passive HTTP observation adapter&lt;/li&gt;
+&lt;li&gt;fix(review): retain captured source through native retirement&lt;/li&gt;
+&lt;li&gt;feat(supervision): own captured Claude review lifecycle&lt;/li&gt;
+&lt;li&gt;fix(supervision): qualify captured reviewer paths and selection&lt;/li&gt;
+&lt;li&gt;feat(supervision): pin inert Claude captured-review admission&lt;/li&gt;
+&lt;li&gt;feat(supervision): connect captured-source reviewer read adapters&lt;/li&gt;
+&lt;li&gt;feat(supervision): own explicit review source snapshots and bounded reads&lt;/li&gt;
+&lt;li&gt;feat(supervision): preserve verified review source artifacts&lt;/li&gt;
+&lt;li&gt;feat(supervision): expose passive serving build provenance&lt;/li&gt;
+&lt;li&gt;feat(supervision): link review receipts to saved task revisions&lt;/li&gt;
+&lt;li&gt;feat(supervision): expose scoped review execution evidence&lt;/li&gt;
+&lt;li&gt;feat(supervision): report scoped queue ownership and persistence uncertainty&lt;/li&gt;
+&lt;li&gt;feat(supervision): observe passive context recovery and Stop fences&lt;/li&gt;
+&lt;li&gt;feat(supervision): observe bounded passive quota holds&lt;/li&gt;
+&lt;li&gt;feat(supervision): observe passive Goal Guard policy ownership&lt;/li&gt;
+&lt;li&gt;feat(supervision): retain configured managed profile bindings&lt;/li&gt;
+&lt;li&gt;fix: bound optional supervision auth history work&lt;/li&gt;
+&lt;li&gt;feat: retain scoped historical auth failure evidence&lt;/li&gt;
+&lt;li&gt;feat: expose passive run-bound auth failure evidence&lt;/li&gt;
+&lt;li&gt;feat: add passive supervisor reference reconciliation consumer&lt;/li&gt;
+&lt;li&gt;fix: qualify task updates by successful result and producer origin&lt;/li&gt;
+&lt;li&gt;feat(supervision): add bounded scoped journal replay&lt;/li&gt;
+&lt;li&gt;feat(supervision): establish scoped monitor authority and opaque cursor foundation&lt;/li&gt;
+&lt;li&gt;Additional fixes and improvements.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <enclosure url="https://github.com/caseyf1988/forgeclipro-releases/releases/download/macos-v1.6.0-dev.1057-202611011638/ForgeCLI-Pro-1.6.0-dev.1057.dmg" length="275361965" type="application/octet-stream" sparkle:edSignature="f6ffyS3ussd7/RXSM+IkpU9jLYs02GSrym9WGjkxxv7bP/IPKUc4GPRjzCTxp5lBEWhPSt2VUlkvf37ZNGhOCQ==" />
+        </item>
+    <item>
             <title>1.6.0-dev.853</title>
             <pubDate>Wed, 28 Oct 2026 22:12:39 -0400</pubDate>
             <link>https://github.com/caseyf1988/forgeclipro-releases/releases</link>
