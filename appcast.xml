@@ -2,6 +2,80 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <item>
+            <title>1.6.0-dev.1938</title>
+            <pubDate>Wed, 11 Nov 2026 13:15:10 -0800</pubDate>
+            <link>https://github.com/caseyf1988/forgeclipro-releases/releases</link>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>202611101858</sparkle:version>
+            <sparkle:shortVersionString>1.6.0-dev.1938</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description>&lt;h2&gt;Forge Pro 1.6.0-dev.1938&lt;/h2&gt;
+&lt;p&gt;Build 202611101858 · commit 7980826c9 · beta channel&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;fix(apple): library photos Codex can read; stop announcing connections that heal&lt;/li&gt;
+&lt;li&gt;fix(release): say when Apple refuses the saved notary sign-in&lt;/li&gt;
+&lt;li&gt;fix(release): a weak-alias byte coincidence inside machine code is not private text&lt;/li&gt;
+&lt;li&gt;fix(agent-access): a path is matched and routed as the same text (#751)&lt;/li&gt;
+&lt;li&gt;feat(agent-access): a fixed local address for agents on the app&amp;#x27;s built-in server (#751)&lt;/li&gt;
+&lt;li&gt;fix(promote): check for the update signing key before building&lt;/li&gt;
+&lt;li&gt;fix(agent-access): the rate limit paces work instead of refusing it&lt;/li&gt;
+&lt;li&gt;fix(agent-access): say the run level and read-only threads up front; setup command fails plainly&lt;/li&gt;
+&lt;li&gt;fix(agent-access): the connector no longer says who resolved a question&lt;/li&gt;
+&lt;li&gt;fix(agent-access): what driving the installed Dev app turned up&lt;/li&gt;
+&lt;li&gt;fix(agent-access): a grant ending within a day shows the time&lt;/li&gt;
+&lt;li&gt;fix(claude): questions work at Guarded and in Plan with edits blocked&lt;/li&gt;
+&lt;li&gt;fix(tests): clear the 15 macOS reds that main was carrying&lt;/li&gt;
+&lt;li&gt;feat(agent-access): Settings › Agent Access on every Apple platform; connector reaches tailnet servers (#751)&lt;/li&gt;
+&lt;li&gt;fix(tests): make the Dev-line reds hermetic and current (GH #763)&lt;/li&gt;
+&lt;li&gt;fix(storage): keep HOME-bound and socket-budgeted test fixtures in HOME&lt;/li&gt;
+&lt;li&gt;feat: deliver role-bound reviewer model controls&lt;/li&gt;
+&lt;li&gt;feat: qualify dedicated reviewer next-review checkpoints&lt;/li&gt;
+&lt;li&gt;feat: bind native reviewer checkpoint to original thread and query&lt;/li&gt;
+&lt;li&gt;fix(supervisor): join reviewer pins to original reported resolutions&lt;/li&gt;
+&lt;li&gt;feat(supervisor): retain private dedicated reviewer native init receipt&lt;/li&gt;
+&lt;li&gt;fix(supervisor): observe custody for native npm Claude layout&lt;/li&gt;
+&lt;li&gt;fix(review): admit thread pins backed by reported model resolutions&lt;/li&gt;
+&lt;li&gt;fix(local): canonicalize HOME and new session working directories&lt;/li&gt;
+&lt;li&gt;feat(review): retain original constructed invocation policy evidence&lt;/li&gt;
+&lt;li&gt;feat(supervision): bind reviewer approvals and receipts by role&lt;/li&gt;
+&lt;li&gt;feat(supervision): join passive reviewer custody to idle checkpoint&lt;/li&gt;
+&lt;li&gt;feat: attach original reviewer process observations&lt;/li&gt;
+&lt;li&gt;feat: retain reviewer catalog collection provenance&lt;/li&gt;
+&lt;li&gt;feat: bind private reviewer models to thread scope&lt;/li&gt;
+&lt;li&gt;feat(review): retain exact reviewer selection provenance&lt;/li&gt;
+&lt;li&gt;feat(supervisor): offer optional controls on enrolled native hosts&lt;/li&gt;
+&lt;li&gt;fix(supervisor): retain complete selectable vendor catalogs&lt;/li&gt;
+&lt;li&gt;feat(supervisor): add native primary model consent and receipts&lt;/li&gt;
+&lt;li&gt;feat(supervisor): bind private model actions to durable setting receipts&lt;/li&gt;
+&lt;li&gt;feat(supervision): qualify passive primary model transition&lt;/li&gt;
+&lt;li&gt;feat(supervisor): add explicit first-time control setup&lt;/li&gt;
+&lt;li&gt;feat(supervisor): apply private primary model changes with durable uncertainty&lt;/li&gt;
+&lt;li&gt;feat(supervisor): join original catalog and native model checkpoint facts&lt;/li&gt;
+&lt;li&gt;feat(supervisor): source role-model facts from original server owners&lt;/li&gt;
+&lt;li&gt;feat(supervisor): bind exact role-model approval with staged dispatch refusal&lt;/li&gt;
+&lt;li&gt;feat(supervisor): add exact scoped role-model proposal policy&lt;/li&gt;
+&lt;li&gt;fix(supervisor): refresh queued source before native construction&lt;/li&gt;
+&lt;li&gt;fix(supervisor): preserve Stop evidence across terminal stream metadata&lt;/li&gt;
+&lt;li&gt;fix(supervisor): wait for completion before queued native admission&lt;/li&gt;
+&lt;li&gt;feat(supervisor): add shared Apple queued control flow&lt;/li&gt;
+&lt;li&gt;feat(supervisor): retain exact queued target through native handoff&lt;/li&gt;
+&lt;li&gt;feat(supervisor): bind queued approval separately from native execution&lt;/li&gt;
+&lt;li&gt;feat(supervisor): preserve exact queued control custody through dispatch&lt;/li&gt;
+&lt;li&gt;fix(supervisor): gate app steering configuration and readiness&lt;/li&gt;
+&lt;li&gt;fix(supervisor): block failed native prompt guards&lt;/li&gt;
+&lt;li&gt;feat(supervision): enroll exact active steering across Apple clients&lt;/li&gt;
+&lt;li&gt;feat(supervision): bind protected active steering and delivery evidence&lt;/li&gt;
+&lt;li&gt;feat(supervision): fence active steering at native processing&lt;/li&gt;
+&lt;li&gt;feat(supervision): add query-owned native processing gate&lt;/li&gt;
+&lt;li&gt;feat(supervisor): stage exact active-run steering with SDK pull fences&lt;/li&gt;
+&lt;li&gt;feat: fence private supervised question dispatch and provenance&lt;/li&gt;
+&lt;li&gt;feat(supervisor): bind pending question identity before bounded answers&lt;/li&gt;
+&lt;li&gt;fix(supervisor): preserve exact binding across native background turns&lt;/li&gt;
+&lt;li&gt;Additional fixes and improvements.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <enclosure url="https://github.com/caseyf1988/forgeclipro-releases/releases/download/macos-v1.6.0-dev.1938-202611101858/ForgeCLI-Pro-1.6.0-dev.1938.dmg" length="262241495" type="application/octet-stream" sparkle:edSignature="WPsDl5kjWkhwP8jxEbk20ms2hbLHhfHaY95v9fSBenw+mVOQwfV1nubIVPa3yS6g5eIJO+ctYqs0RdcXpFxBCA==" />
+        </item>
+    <item>
             <title>1.6.0-dev.1134</title>
             <pubDate>Tue, 03 Nov 2026 18:51:43 -0500</pubDate>
             <link>https://github.com/caseyf1988/forgeclipro-releases/releases</link>
