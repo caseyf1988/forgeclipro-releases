@@ -2,6 +2,80 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <item>
+            <title>1.6.0-dev.2209</title>
+            <pubDate>Wed, 18 Nov 2026 11:46:55 -0800</pubDate>
+            <link>https://github.com/caseyf1988/forgeclipro-releases/releases</link>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>202611181130</sparkle:version>
+            <sparkle:shortVersionString>1.6.0-dev.2209</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description>&lt;h2&gt;Forge Pro 1.6.0-dev.2209&lt;/h2&gt;
+&lt;p&gt;Build 202611181130 · commit 9ddb91eb3 · beta channel&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;feat(local-platform): remove one fetched set; two steps written before they run&lt;/li&gt;
+&lt;li&gt;feat(agents): a host says when it nears what a copy of it carries&lt;/li&gt;
+&lt;li&gt;fix(test): a stand-in Git that begins late no longer reads as a refused root&lt;/li&gt;
+&lt;li&gt;feat(agents): a host&amp;#x27;s snapshots are thinned so the worker does not stop for good&lt;/li&gt;
+&lt;li&gt;fix(test): a clock test compared a float difference for equality&lt;/li&gt;
+&lt;li&gt;fix(local-platform): a host&amp;#x27;s copy and move are given time for what the host holds&lt;/li&gt;
+&lt;li&gt;feat(local-platform): the carry measurement asks what a gigabyte costs&lt;/li&gt;
+&lt;li&gt;fix(agent-host): a copy proves custody by the clock, not by the file&lt;/li&gt;
+&lt;li&gt;feat(local-platform): say what a host can carry, and keep a workspace inside it&lt;/li&gt;
+&lt;li&gt;fix(agents): the host tends an agent&amp;#x27;s workspace instead of refusing it&lt;/li&gt;
+&lt;li&gt;fix(test): a made-up clock a crowded run overtook; a refused start that names its check&lt;/li&gt;
+&lt;li&gt;feat(local-platform): the give-project question also takes the project away&lt;/li&gt;
+&lt;li&gt;feat(apple): remove a given project from an agent, on Mac, iPhone and iPad (given trees, slice 6: the screens)&lt;/li&gt;
+&lt;li&gt;feat(server): take a given project away from an agent (given trees, slice 6: the server)&lt;/li&gt;
+&lt;li&gt;feat(agent host): a given tree can be taken away again, on a reading of it or on the word discard&lt;/li&gt;
+&lt;li&gt;fix(push probe): an ssh that does not say in time where it would connect is not vetted by its name&lt;/li&gt;
+&lt;li&gt;fix(apple): a launch override connects when the built-in host is the chosen one&lt;/li&gt;
+&lt;li&gt;fix(move): release the carried bundle&amp;#x27;s folder on every outcome&lt;/li&gt;
+&lt;li&gt;feat(local-platform): qualify giving a project and taking a real agent&amp;#x27;s changes back&lt;/li&gt;
+&lt;li&gt;feat(agents): give an agent a project from its page and take the changes back&lt;/li&gt;
+&lt;li&gt;feat(agents): the server gives an agent a project&amp;#x27;s commit and takes its changes back as a branch&lt;/li&gt;
+&lt;li&gt;feat(local-platform): ask the fix-a-bug question of code an agent was given&lt;/li&gt;
+&lt;li&gt;feat(agents): an agent host reads back what an agent did to a given tree&lt;/li&gt;
+&lt;li&gt;fix(sync): wait for a slow Git question instead of giving the sync up at 3 s&lt;/li&gt;
+&lt;li&gt;fix(agents): a workspace inspection no longer loads the tar reader&lt;/li&gt;
+&lt;li&gt;feat(agents): an agent host places a tree its administrator gives it&lt;/li&gt;
+&lt;li&gt;fix(local): the agent&amp;#x27;s prompt names only the tools the run has&lt;/li&gt;
+&lt;li&gt;fix(harness): do not call &amp;quot;left running&amp;quot; a program that is a moment in going&lt;/li&gt;
+&lt;li&gt;fix(test): a wait for a Git child that a crowded run used up&lt;/li&gt;
+&lt;li&gt;fix(local): show every call a local model makes, including ones that reach no tool&lt;/li&gt;
+&lt;li&gt;fix(test): give the delete worker time to be admitted before its deadline&lt;/li&gt;
+&lt;li&gt;fix(test): four waits a whole-suite run outlasted&lt;/li&gt;
+&lt;li&gt;fix(test): the close-during-retention test takes the next pass when one ends without reading&lt;/li&gt;
+&lt;li&gt;fix(agent-host): tell a model what was wrong with a tool call refused for how it was written&lt;/li&gt;
+&lt;li&gt;fix(kit): the keeper test sees the new model started before it kills the keeper&lt;/li&gt;
+&lt;li&gt;feat(kit): ask a real local agent to fix a bug&lt;/li&gt;
+&lt;li&gt;fix(agent): parts added to a file start on a new line; the cut notice says more&lt;/li&gt;
+&lt;li&gt;fix(move): the bundle import&amp;#x27;s fetch starts none of git&amp;#x27;s background maintenance&lt;/li&gt;
+&lt;li&gt;fix(local): a tool call cut at the answer limit is said as that, and a long file is written in parts&lt;/li&gt;
+&lt;li&gt;feat(agent-service): a host says which model it saved, and the seventh deployment is written&lt;/li&gt;
+&lt;li&gt;feat(agent): a result that is not whole says so where it ends, and stays known as that&lt;/li&gt;
+&lt;li&gt;feat(agent): read part of a file, and a cut read says which part to ask for&lt;/li&gt;
+&lt;li&gt;fix(agent): a refusal keeps the model&amp;#x27;s last count, and a run starts from what the last one measured&lt;/li&gt;
+&lt;li&gt;fix(agent): the notice of a cut names the context it was fitted to&lt;/li&gt;
+&lt;li&gt;fix(agent): a tool result too long for the model is cut to fit, not refused turn after turn&lt;/li&gt;
+&lt;li&gt;feat(kit): a new agent host is given the whole of what the loaded model reads&lt;/li&gt;
+&lt;li&gt;feat(kit): the real-task qualification takes an agent&amp;#x27;s history to the limit&lt;/li&gt;
+&lt;li&gt;feat(kit): the real-task qualification can ask about a context wider than 8,192&lt;/li&gt;
+&lt;li&gt;feat(loaded-model): say when a saved number holds threads below the model&lt;/li&gt;
+&lt;li&gt;fix(local): send a model request once more when its connection drops before any answer&lt;/li&gt;
+&lt;li&gt;fix(sync): a Git that does not answer in time is not &amp;#x27;not a repository&amp;#x27;&lt;/li&gt;
+&lt;li&gt;feat(kit): survey reads what a live model&amp;#x27;s watchdog measured as it became ready&lt;/li&gt;
+&lt;li&gt;feat(kit): the serving model&amp;#x27;s row reads 65,536&lt;/li&gt;
+&lt;li&gt;feat(kit): prove --wide, the gate for a longer served context&lt;/li&gt;
+&lt;li&gt;fix(local): an answer the model machine ends part-way says why&lt;/li&gt;
+&lt;li&gt;fix(local): a step the model machine ends for running too long is sent once more, not five times&lt;/li&gt;
+&lt;li&gt;fix(codex): size Codex through a saved model server for the loaded model&lt;/li&gt;
+&lt;li&gt;feat(apple): Return sends a question&amp;#x27;s typed answer, and each question has its own form (#759)&lt;/li&gt;
+&lt;li&gt;fix(local-platform): a new agent host is given the gateway it is told and whichever model is loaded&lt;/li&gt;
+&lt;li&gt;Additional fixes and improvements.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <enclosure url="https://github.com/caseyf1988/forgeclipro-releases/releases/download/macos-v1.6.0-dev.2209-202611181130/ForgeCLI-Pro-1.6.0-dev.2209.dmg" length="262166942" type="application/octet-stream" sparkle:edSignature="kPm4wChBLub8Zc4CJG0RJTa5smUJrAXl0VhDVIutdl4yPidghxLgnvudCAzQ/QQFSW9h58m5LRyKJ8Vbm4whAg==" />
+        </item>
+    <item>
             <title>1.6.0-dev.1938</title>
             <pubDate>Wed, 11 Nov 2026 13:15:10 -0800</pubDate>
             <link>https://github.com/caseyf1988/forgeclipro-releases/releases</link>
