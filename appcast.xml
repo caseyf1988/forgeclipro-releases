@@ -2,6 +2,60 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <item>
+            <title>1.6.0-dev.2306</title>
+            <pubDate>Thu, 19 Nov 2026 20:50:17 -0800</pubDate>
+            <link>https://github.com/caseyf1988/forgeclipro-releases/releases</link>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>202611192039</sparkle:version>
+            <sparkle:shortVersionString>1.6.0-dev.2306</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description>&lt;h2&gt;Forge Pro 1.6.0-dev.2306&lt;/h2&gt;
+&lt;p&gt;Build 202611192039 · commit f76c6e54e · beta channel&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;feat(local-platform): the second model&amp;#x27;s row in the kit&amp;#x27;s list (Qwen 3.8 27B)&lt;/li&gt;
+&lt;li&gt;fix(release): privacy check reads an x86_64 near call as the instruction it is&lt;/li&gt;
+&lt;li&gt;feat(local-platform): the production agent host&amp;#x27;s first task as a tested kit step, and its deployment written down&lt;/li&gt;
+&lt;li&gt;fix(move): an open file is no longer packed when it travels beside a closed one&lt;/li&gt;
+&lt;li&gt;feat(household): a saved switch for the household assistant, set from the app&lt;/li&gt;
+&lt;li&gt;fix(kit): a model server is saved under the shared model name&lt;/li&gt;
+&lt;li&gt;feat(local-platform): save the chat gateway as a model server on the model machine&amp;#x27;s Forge server&lt;/li&gt;
+&lt;li&gt;fix(remote-switch): go back on the restart count, not after the whole allowance&lt;/li&gt;
+&lt;li&gt;fix(backup): an emptied working-state table is not reported as lost data&lt;/li&gt;
+&lt;li&gt;fix(maintenance): close the tool&amp;#x27;s file list and wait, bounded, for idle&lt;/li&gt;
+&lt;li&gt;feat(remote-switch): the model machine serves promoted 2209; the tools that did it&lt;/li&gt;
+&lt;li&gt;fix(agents): refuse a tar entry of negative size by one name on every Python&lt;/li&gt;
+&lt;li&gt;fix(schedules): an onCommit change that never started is given back, not spent&lt;/li&gt;
+&lt;li&gt;feat(schedules): make, read and watch commit-started schedules in the app&lt;/li&gt;
+&lt;li&gt;feat(schedules): run a schedule when a project&amp;#x27;s branch gets new commits&lt;/li&gt;
+&lt;li&gt;fix(agents): recovery&amp;#x27;s history proof streams, so no catalog size refuses it&lt;/li&gt;
+&lt;li&gt;feat(agents): a task&amp;#x27;s page opens the tasks tied to it (local overhaul 7e)&lt;/li&gt;
+&lt;li&gt;feat(agents): one agent asks another and gets the answer back (local overhaul 7e)&lt;/li&gt;
+&lt;li&gt;fix(test): the prepared issuer suite runs in the quiet group, where its one-second window is the product&amp;#x27;s&lt;/li&gt;
+&lt;li&gt;fix(test): two tests that failed once in a crowded run now say how they ended&lt;/li&gt;
+&lt;li&gt;fix(local-platform): a model&amp;#x27;s reasoning, or several pictures, no longer leave a Claude Code thread refused&lt;/li&gt;
+&lt;li&gt;fix(local-platform): a picture a person names with @ no longer leaves a Claude Code thread refused&lt;/li&gt;
+&lt;li&gt;feat(local-platform): a proof that asks as Claude Code asks, and the deployment written down&lt;/li&gt;
+&lt;li&gt;feat(local-platform): the chat gateway takes Claude Code&amp;#x27;s Messages behind the scheduler&lt;/li&gt;
+&lt;li&gt;feat(apple): offer Claude Code as a harness; keep a thread&amp;#x27;s declared commands&lt;/li&gt;
+&lt;li&gt;fix(harness): Claude Code sends a model server only user and assistant messages&lt;/li&gt;
+&lt;li&gt;feat(harness): Claude Code runs on a saved model server as a harness&lt;/li&gt;
+&lt;li&gt;feat(claude): a runtime can be given each turn&amp;#x27;s environment whole, and withhold tools&lt;/li&gt;
+&lt;li&gt;fix(agent): readFile says it adds nothing to the text, not even line numbers&lt;/li&gt;
+&lt;li&gt;feat(apple): shared knowledge on the agent&amp;#x27;s page (Mac, iPhone, iPad)&lt;/li&gt;
+&lt;li&gt;feat(lo): agents share what they verified (server side)&lt;/li&gt;
+&lt;li&gt;feat(kit): the memory question asked of twenty-four agents, in two wordings of the asking&lt;/li&gt;
+&lt;li&gt;feat(agents): an agent&amp;#x27;s notes stay where they were sent, and the runs that measure it are written&lt;/li&gt;
+&lt;li&gt;feat(agents): what an agent remembers, in the app (Mac, iPhone, iPad)&lt;/li&gt;
+&lt;li&gt;feat(agents): show what an agent remembers and let its administrator forget a note; record rw16&lt;/li&gt;
+&lt;li&gt;feat(agents): a remembered note tells what was observed from what was guessed&lt;/li&gt;
+&lt;li&gt;fix(kit): print a program&amp;#x27;s report whole, and record how much a program said&lt;/li&gt;
+&lt;li&gt;feat(agents): one saved switch for an agent host&amp;#x27;s memory, off everywhere&lt;/li&gt;
+&lt;li&gt;fix(test): the connection tests run where the server&amp;#x27;s dependencies are not installed&lt;/li&gt;
+&lt;li&gt;feat(local-platform): the kit joins a Forge server to the production agent host&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <enclosure url="https://github.com/caseyf1988/forgeclipro-releases/releases/download/macos-v1.6.0-dev.2306-202611192039/ForgeCLI-Pro-1.6.0-dev.2306.dmg" length="263050226" type="application/octet-stream" sparkle:edSignature="aNwgQKYN9bASD5MN0bpPGZTNZYQNaVowi+q9ik+hhbhYVT3eGNRAo+N6UdGu+GRKjePy6f4KFCXTT8FMl5pKDg==" />
+        </item>
+    <item>
             <title>1.6.0-dev.2209</title>
             <pubDate>Wed, 18 Nov 2026 11:46:55 -0800</pubDate>
             <link>https://github.com/caseyf1988/forgeclipro-releases/releases</link>
