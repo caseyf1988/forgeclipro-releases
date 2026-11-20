@@ -2,6 +2,34 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <item>
+            <title>1.6.0-dev.2343</title>
+            <pubDate>Fri, 20 Nov 2026 07:02:46 -0800</pubDate>
+            <link>https://github.com/caseyf1988/forgeclipro-releases/releases</link>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>202611200643</sparkle:version>
+            <sparkle:shortVersionString>1.6.0-dev.2343</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description>&lt;h2&gt;Forge Pro 1.6.0-dev.2343&lt;/h2&gt;
+&lt;p&gt;Build 202611200643 · commit c10e37f40 · beta channel&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;feat(apple): a model checked by itself on the Harnesses page&lt;/li&gt;
+&lt;li&gt;feat(server,kit): a harness checked on one model by name&lt;/li&gt;
+&lt;li&gt;feat(local-platform): ask the Claude Code thread of a rehearsal server (harness-thread --beside)&lt;/li&gt;
+&lt;li&gt;feat(local-platform): one real Claude Code thread on the loaded model, as a kit step&lt;/li&gt;
+&lt;li&gt;fix(remote-switch): the 2306 target contains what serves; a check for the real pair&lt;/li&gt;
+&lt;li&gt;feat(remote-switch): the Linux gate is a tool of the repository, run before staging&lt;/li&gt;
+&lt;li&gt;fix(tests): the folder is removed after Claude Code has ended, not while it ends&lt;/li&gt;
+&lt;li&gt;fix(tests): a folder Claude Code is still writing is removed by whole new tries&lt;/li&gt;
+&lt;li&gt;feat(remote-switch): the round trip can start the old tree with model servers on too&lt;/li&gt;
+&lt;li&gt;feat(local-platform): the agent-task step turns a host&amp;#x27;s memory on and off, and says what it remembers&lt;/li&gt;
+&lt;li&gt;fix(local-platform): a check&amp;#x27;s file is told by its place in the worker&lt;/li&gt;
+&lt;li&gt;fix(local-platform): what the scripted share path found, mended before the real run&lt;/li&gt;
+&lt;li&gt;feat(local-platform): the measured run for sharing, written and built before it is run&lt;/li&gt;
+&lt;li&gt;feat(local-platform): a second model&amp;#x27;s files moved whole into the serving root, and a change of model asked as the app asks&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <enclosure url="https://github.com/caseyf1988/forgeclipro-releases/releases/download/macos-v1.6.0-dev.2343-202611200643/ForgeCLI-Pro-1.6.0-dev.2343.dmg" length="268456391" type="application/octet-stream" sparkle:edSignature="v2Pz4gJbEhJUjzbO/sTzzzSPiyZVLjNG5lyJE5U6Z+ujnGD3Rr+2S5psjjSy7bjb/vtqgzrIbOt2TNtD+rCcDA==" />
+        </item>
+    <item>
             <title>1.6.0-dev.2306</title>
             <pubDate>Thu, 19 Nov 2026 20:50:17 -0800</pubDate>
             <link>https://github.com/caseyf1988/forgeclipro-releases/releases</link>
