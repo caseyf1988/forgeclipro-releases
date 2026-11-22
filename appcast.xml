@@ -2,6 +2,39 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <item>
+            <title>1.6.0-dev.2403</title>
+            <pubDate>Sun, 22 Nov 2026 14:53:34 -0500</pubDate>
+            <link>https://github.com/caseyf1988/forgeclipro-releases/releases</link>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>202611221432</sparkle:version>
+            <sparkle:shortVersionString>1.6.0-dev.2403</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description>&lt;h2&gt;Forge Pro 1.6.0-dev.2403&lt;/h2&gt;
+&lt;p&gt;Build 202611221432 · commit 480a2e6ff · beta channel&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;perf(apple): unchanged git states and empty failure clears no longer notify (refs #766)&lt;/li&gt;
+&lt;li&gt;perf(apple): stop the composer re-rendering per streamed flush; scalar terminal-art scan&lt;/li&gt;
+&lt;li&gt;fix(apple): the sidebar&amp;#x27;s working mark and status dot breathe in the render server&lt;/li&gt;
+&lt;li&gt;fix(apple): the running dot and the streaming caret breathe in the render server&lt;/li&gt;
+&lt;li&gt;fix(rig): the prod-scale rig sandboxes every workspace when runs are streamed or refused&lt;/li&gt;
+&lt;li&gt;fix(apple): a choice queued offline no longer overwrites a newer one from another device (GH #320)&lt;/li&gt;
+&lt;li&gt;fix(server): trust Claude goal receipts on the self-updating CLI (GH #752)&lt;/li&gt;
+&lt;li&gt;fix(smith): an answer&amp;#x27;s line says what came back on the Mac too&lt;/li&gt;
+&lt;li&gt;fix(apple): the Mac test app shows its window at launch&lt;/li&gt;
+&lt;li&gt;feat(apple): Smith says ready or busy before anything is asked&lt;/li&gt;
+&lt;li&gt;feat(household): the server says ready, busy or limited on the status&lt;/li&gt;
+&lt;li&gt;perf(apple): stop rewriting two state files every 30 seconds with nothing new&lt;/li&gt;
+&lt;li&gt;perf(thread): a streaming turn&amp;#x27;s parts find the tail without building the turn&lt;/li&gt;
+&lt;li&gt;fix(mac): a shorter thread taken at the tail no longer kills the app&lt;/li&gt;
+&lt;li&gt;feat(smith): ask the assistant and hand over a task on Smith&amp;#x27;s own page&lt;/li&gt;
+&lt;li&gt;feat(sidebar): the section switch is symbols with the chosen one named&lt;/li&gt;
+&lt;li&gt;feat(smith): the assistant&amp;#x27;s own place in the sidebar and the main pane&lt;/li&gt;
+&lt;li&gt;fix(remote-switch): tell this unit&amp;#x27;s change from any other unit&amp;#x27;s&lt;/li&gt;
+&lt;li&gt;fix(agents): refuse a tar entry of negative size by one name on every Python&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <enclosure url="https://github.com/caseyf1988/forgeclipro-releases/releases/download/macos-v1.6.0-dev.2403-202611221432/ForgeCLI-Pro-1.6.0-dev.2403.dmg" length="267248303" type="application/octet-stream" sparkle:edSignature="ZBQ4PHVg4vB8uaCHvOO4eR09fjLQnqzO107Jqbln7+09JHlYWBrJWUryBk3Kvsqoxmhz8QvsNwAkTMZdwqaQBA==" />
+        </item>
+    <item>
             <title>1.6.0-dev.2343</title>
             <pubDate>Fri, 20 Nov 2026 07:02:46 -0800</pubDate>
             <link>https://github.com/caseyf1988/forgeclipro-releases/releases</link>
