@@ -2,6 +2,39 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <item>
+            <title>1.6.0-dev.2452</title>
+            <pubDate>Mon, 23 Nov 2026 11:47:16 -0500</pubDate>
+            <link>https://github.com/caseyf1988/forgeclipro-releases/releases</link>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>202611231130</sparkle:version>
+            <sparkle:shortVersionString>1.6.0-dev.2452</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description>&lt;h2&gt;Forge Pro 1.6.0-dev.2452&lt;/h2&gt;
+&lt;p&gt;Build 202611231130 · commit 47b6a1fe9 · beta channel&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;fix(model-servers): a saved word waits for the next update on a supervised server&lt;/li&gt;
+&lt;li&gt;fix(bills): accept the finance app&amp;#x27;s numbered ids; key rows by place&lt;/li&gt;
+&lt;li&gt;feat(apple): Settings › Smith pages show Smith&amp;#x27;s home (unified Smith, slice d)&lt;/li&gt;
+&lt;li&gt;feat(apple): Home&amp;#x27;s setup over Smith&amp;#x27;s page (unified Smith, slice c)&lt;/li&gt;
+&lt;li&gt;feat(apple): Smith&amp;#x27;s Model section and the full agent service row (unified Smith, slice b)&lt;/li&gt;
+&lt;li&gt;feat(local-platform): the model-server saver finds a Mac server; heartbeat tests read the reader&amp;#x27;s clock&lt;/li&gt;
+&lt;li&gt;feat(smith): a status line at the top of Smith&amp;#x27;s page&lt;/li&gt;
+&lt;li&gt;fix(release): privacy check reads a Swift relative pointer as the offset it is&lt;/li&gt;
+&lt;li&gt;fix(bills): read settings from a file in the Forge root, not the environment&lt;/li&gt;
+&lt;li&gt;feat(smith): bills, read only, on named administrator devices (slice 4)&lt;/li&gt;
+&lt;li&gt;feat(sidebar): drawer search beside the gear; sections share the sort/add row&lt;/li&gt;
+&lt;li&gt;feat(smith): Smith&amp;#x27;s page lists the home&amp;#x27;s schedules when another server is open&lt;/li&gt;
+&lt;li&gt;fix(local-platform): the finance door answers plain, non-streamed chat&lt;/li&gt;
+&lt;li&gt;feat(local-platform): a finance gateway role behind the scheduler&lt;/li&gt;
+&lt;li&gt;feat(server): schedules as a plain read route (Smith slice 3, server)&lt;/li&gt;
+&lt;li&gt;feat(smith): one command center: Ask, Agents, Schedules, Home, Bills, Settings&lt;/li&gt;
+&lt;li&gt;feat(smith): reach Smith from any server; the button always shows&lt;/li&gt;
+&lt;li&gt;fix(mac timeline): settle no longer builds off-screen rows in one burst (#766)&lt;/li&gt;
+&lt;li&gt;feat: a saved switch for model servers, read at the next start&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <enclosure url="https://github.com/caseyf1988/forgeclipro-releases/releases/download/macos-v1.6.0-dev.2452-202611231130/ForgeCLI-Pro-1.6.0-dev.2452.dmg" length="270211047" type="application/octet-stream" sparkle:edSignature="av0qejG5btyK48Ai1LDZ7PvgAp8PnrzO5p+DKMYtg6P4+F1jhgDrPiqnO2eHmqXdmLFjAN2vRJBiNHWwKNDvAQ==" />
+        </item>
+    <item>
             <title>1.6.0-dev.2403</title>
             <pubDate>Sun, 22 Nov 2026 14:53:34 -0500</pubDate>
             <link>https://github.com/caseyf1988/forgeclipro-releases/releases</link>
