@@ -2,6 +2,25 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <item>
+            <title>1.6.0-dev.2520</title>
+            <pubDate>Tue, 24 Nov 2026 18:15:19 -0500</pubDate>
+            <link>https://github.com/caseyf1988/forgeclipro-releases/releases</link>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>202611241732</sparkle:version>
+            <sparkle:shortVersionString>1.6.0-dev.2520</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description>&lt;h2&gt;Forge Pro 1.6.0-dev.2520&lt;/h2&gt;
+&lt;p&gt;Build 202611241732 · commit 72832143f · beta channel&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;fix(apple): key-scoped ForgeStored replaces @AppStorage (refs #766)&lt;/li&gt;
+&lt;li&gt;fix(apple): stop no-op UserDefaults writes re-rendering the shell and sidebar (refs #766)&lt;/li&gt;
+&lt;li&gt;feat(#769): the journal packer (release N+1), off by default&lt;/li&gt;
+&lt;li&gt;fix(diagnostics): fold stream flushes so the crash trail reaches back hours&lt;/li&gt;
+&lt;li&gt;feat(#769): journal reads merge per-run packs (read side; writes none)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <enclosure url="https://github.com/caseyf1988/forgeclipro-releases/releases/download/macos-v1.6.0-dev.2520-202611241732/ForgeCLI-Pro-1.6.0-dev.2520.dmg" length="268452486" type="application/octet-stream" sparkle:edSignature="Ng1zJSlee2jfmAx6WfG+RcqG0pmD2l57QrElE/AGOv2WzevbeVm5SD5errPNnKF0QiTWslOSQhXcGswKIKG+AQ==" />
+        </item>
+    <item>
             <title>1.6.0-dev.2507</title>
             <pubDate>Tue, 24 Nov 2026 13:56:08 -0500</pubDate>
             <link>https://github.com/caseyf1988/forgeclipro-releases/releases</link>
