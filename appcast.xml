@@ -2,6 +2,22 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <item>
+            <title>1.6.0-dev.2507</title>
+            <pubDate>Tue, 24 Nov 2026 13:56:08 -0500</pubDate>
+            <link>https://github.com/caseyf1988/forgeclipro-releases/releases</link>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>202611241342</sparkle:version>
+            <sparkle:shortVersionString>1.6.0-dev.2507</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description>&lt;h2&gt;Forge Pro 1.6.0-dev.2507&lt;/h2&gt;
+&lt;p&gt;Build 202611241342 · commit c90f6e119 · beta channel&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;fix(claude): close the input on the harness&amp;#x27;s idle + task list, not timers (#770)&lt;/li&gt;
+&lt;li&gt;feat(local-platform): agent-task look says how long the service has been paused&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <enclosure url="https://github.com/caseyf1988/forgeclipro-releases/releases/download/macos-v1.6.0-dev.2507-202611241342/ForgeCLI-Pro-1.6.0-dev.2507.dmg" length="263692334" type="application/octet-stream" sparkle:edSignature="kYaiTEXksUKOJgpXGqNHmbrQe1u0k6MLtAu98WdAUxpmRNnvIT7xhdbV9MgsnQx53y/gIqG5gmD+1AomqUwADw==" />
+        </item>
+    <item>
             <title>1.6.0-dev.2495</title>
             <pubDate>Tue, 24 Nov 2026 06:49:31 -0500</pubDate>
             <link>https://github.com/caseyf1988/forgeclipro-releases/releases</link>
