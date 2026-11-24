@@ -2,6 +2,29 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <item>
+            <title>1.6.0-dev.2495</title>
+            <pubDate>Tue, 24 Nov 2026 06:49:31 -0500</pubDate>
+            <link>https://github.com/caseyf1988/forgeclipro-releases/releases</link>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>202611240633</sparkle:version>
+            <sparkle:shortVersionString>1.6.0-dev.2495</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description>&lt;h2&gt;Forge Pro 1.6.0-dev.2495&lt;/h2&gt;
+&lt;p&gt;Build 202611240633 · commit fda035046 · beta channel&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;fix(release): a failed recovery export keeps what it wrote&lt;/li&gt;
+&lt;li&gt;fix(household): an area that only repeats the device&amp;#x27;s name is not said twice; receipt&lt;/li&gt;
+&lt;li&gt;feat(household): the app picks devices by name and area, from Home Assistant&amp;#x27;s live context&lt;/li&gt;
+&lt;li&gt;feat(household): act on the house only through Home Assistant&amp;#x27;s MCP server&lt;/li&gt;
+&lt;li&gt;fix(apple): wake the reconnect supervisor on app-active and network-path changes (#704)&lt;/li&gt;
+&lt;li&gt;fix(release): privacy check reads an x86_64 RIP-relative load as the instruction it is&lt;/li&gt;
+&lt;li&gt;feat(smith): turn the household assistant on and off from anywhere&lt;/li&gt;
+&lt;li&gt;feat(smith): say how long the agents have been paused&lt;/li&gt;
+&lt;li&gt;feat(smith): name a device for bills from the app (administrators only)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <enclosure url="https://github.com/caseyf1988/forgeclipro-releases/releases/download/macos-v1.6.0-dev.2495-202611240633/ForgeCLI-Pro-1.6.0-dev.2495.dmg" length="261592732" type="application/octet-stream" sparkle:edSignature="iu9JEhW0mWCooGWxPC3tQrAzGumJjwkVIK5Nk8L8aK3I/XuR9ioBRcNufvHLSbYLmdL9A0UAhraxqOvuV1wtDQ==" />
+        </item>
+    <item>
             <title>1.6.0-dev.2475</title>
             <pubDate>Mon, 23 Nov 2026 18:24:53 -0500</pubDate>
             <link>https://github.com/caseyf1988/forgeclipro-releases/releases</link>
