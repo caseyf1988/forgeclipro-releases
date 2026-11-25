@@ -2,6 +2,23 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <item>
+            <title>1.6.0-dev.2559</title>
+            <pubDate>Wed, 25 Nov 2026 15:59:11 -0500</pubDate>
+            <link>https://github.com/caseyf1988/forgeclipro-releases/releases</link>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>202611251536</sparkle:version>
+            <sparkle:shortVersionString>1.6.0-dev.2559</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description>&lt;h2&gt;Forge Pro 1.6.0-dev.2559&lt;/h2&gt;
+&lt;p&gt;Build 202611251536 · commit 20a42193e · beta channel&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;feat(smith): Home Assistant brings its own tools; the finance app&amp;#x27;s way in (#772)&lt;/li&gt;
+&lt;li&gt;fix(smith): the keyboard stays up through a send; design for callers bringing their tools&lt;/li&gt;
+&lt;li&gt;feat(smith): Smith&amp;#x27;s page is a conversation, with one status and no Try Again&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <enclosure url="https://github.com/caseyf1988/forgeclipro-releases/releases/download/macos-v1.6.0-dev.2559-202611251536/ForgeCLI-Pro-1.6.0-dev.2559.dmg" length="267476556" type="application/octet-stream" sparkle:edSignature="YPOLxcQQ8Rp+PGyyVD29WcUonz4F3IrUtmhm7Vr5fJHoufzLDwkvG3MinNUiKRvBxx4YEjk5h/qinj4UnFkqCg==" />
+        </item>
+    <item>
             <title>1.6.0-dev.2545</title>
             <pubDate>Wed, 25 Nov 2026 11:28:38 -0500</pubDate>
             <link>https://github.com/caseyf1988/forgeclipro-releases/releases</link>
