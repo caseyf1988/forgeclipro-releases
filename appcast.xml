@@ -2,6 +2,27 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <item>
+            <title>1.6.0-dev.2536</title>
+            <pubDate>Wed, 25 Nov 2026 08:19:19 -0500</pubDate>
+            <link>https://github.com/caseyf1988/forgeclipro-releases/releases</link>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>202611250758</sparkle:version>
+            <sparkle:shortVersionString>1.6.0-dev.2536</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description>&lt;h2&gt;Forge Pro 1.6.0-dev.2536&lt;/h2&gt;
+&lt;p&gt;Build 202611250758 · commit 0f4d91c50 · beta channel&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;feat(journal): pack Codex native rows, one provider family per pack (GH #769)&lt;/li&gt;
+&lt;li&gt;fix(#769): the packer cools per row, so a thread in daily use packs its old runs&lt;/li&gt;
+&lt;li&gt;feat(apple): make, replace and remove Home Assistant&amp;#x27;s household key (GH #229, #230)&lt;/li&gt;
+&lt;li&gt;feat(household): Home Assistant integration — Assist conversation agent + status sensor (GH #230)&lt;/li&gt;
+&lt;li&gt;feat(household): Home Assistant&amp;#x27;s way in — a key and a conversation route (GH #229)&lt;/li&gt;
+&lt;li&gt;fix(server): &amp;quot;cannot tell&amp;quot; sessions no longer throw the activity list (GH #769)&lt;/li&gt;
+&lt;li&gt;fix(storage): the hourly retention job keeps its own tool current&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <enclosure url="https://github.com/caseyf1988/forgeclipro-releases/releases/download/macos-v1.6.0-dev.2536-202611250758/ForgeCLI-Pro-1.6.0-dev.2536.dmg" length="268835024" type="application/octet-stream" sparkle:edSignature="wHSXnS5gKgbj0RtkX0Ae5vpt+6y0sUSidw0rXRt5scpMClITDl2aM1e56nlBLvn1kNOtgjCXFACF24jwecfzCA==" />
+        </item>
+    <item>
             <title>1.6.0-dev.2520</title>
             <pubDate>Tue, 24 Nov 2026 18:15:19 -0500</pubDate>
             <link>https://github.com/caseyf1988/forgeclipro-releases/releases</link>
