@@ -2,6 +2,21 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <item>
+            <title>1.6.0-dev.2564</title>
+            <pubDate>Wed, 25 Nov 2026 20:15:33 -0500</pubDate>
+            <link>https://github.com/caseyf1988/forgeclipro-releases/releases</link>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>202611251955</sparkle:version>
+            <sparkle:shortVersionString>1.6.0-dev.2564</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description>&lt;h2&gt;Forge Pro 1.6.0-dev.2564&lt;/h2&gt;
+&lt;p&gt;Build 202611251955 · commit 363755630 · beta channel&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;feat(smith): call Smith by its name everywhere a person reads it (#772)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <enclosure url="https://github.com/caseyf1988/forgeclipro-releases/releases/download/macos-v1.6.0-dev.2564-202611251955/ForgeCLI-Pro-1.6.0-dev.2564.dmg" length="267807970" type="application/octet-stream" sparkle:edSignature="bvPYkJmboEAGlTi2S6bPmzsiuHagxoQmmGA1D5fnQpVG2QX7AmIa93TYmIG0v41Mk0RBLc3Nthsyq4kF4iCsAw==" />
+        </item>
+    <item>
             <title>1.6.0-dev.2560</title>
             <pubDate>Wed, 25 Nov 2026 17:47:17 -0500</pubDate>
             <link>https://github.com/caseyf1988/forgeclipro-releases/releases</link>
