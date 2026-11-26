@@ -2,6 +2,27 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <item>
+            <title>1.6.0-dev.2596</title>
+            <pubDate>Thu, 26 Nov 2026 11:46:12 -0500</pubDate>
+            <link>https://github.com/caseyf1988/forgeclipro-releases/releases</link>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>202611261129</sparkle:version>
+            <sparkle:shortVersionString>1.6.0-dev.2596</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description>&lt;h2&gt;Forge Pro 1.6.0-dev.2596&lt;/h2&gt;
+&lt;p&gt;Build 202611261129 · commit ed1c133c4 · beta channel&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;feat(smith): household answers keep their text 30 days, then an outline&lt;/li&gt;
+&lt;li&gt;fix(smith): Home Assistant status asks up to three devices before saying nothing usable&lt;/li&gt;
+&lt;li&gt;feat(smith): Select All for devices; setup steps say where and how&lt;/li&gt;
+&lt;li&gt;feat(smith): keep the conversation on this device (option 1, unmerged)&lt;/li&gt;
+&lt;li&gt;fix(smith): status cards side by side line up and keep their own height&lt;/li&gt;
+&lt;li&gt;feat(ha): Smith&amp;#x27;s setup in Home Assistant says where each field comes from and the step left&lt;/li&gt;
+&lt;li&gt;fix(household): end a key change on the server&amp;#x27;s answer, not after the reread&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <enclosure url="https://github.com/caseyf1988/forgeclipro-releases/releases/download/macos-v1.6.0-dev.2596-202611261129/ForgeCLI-Pro-1.6.0-dev.2596.dmg" length="266045168" type="application/octet-stream" sparkle:edSignature="gLPWcdI96j0gw0ClIAwR77SXisL22EiG6Fq17MRJt8p5dk7pnCVoqvACUznH4pTVWgjzTtqtp+XBJOf37t6pDg==" />
+        </item>
+    <item>
             <title>1.6.0-dev.2577</title>
             <pubDate>Thu, 26 Nov 2026 04:25:59 -0500</pubDate>
             <link>https://github.com/caseyf1988/forgeclipro-releases/releases</link>
