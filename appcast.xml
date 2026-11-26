@@ -2,6 +2,22 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <item>
+            <title>1.6.0-dev.2577</title>
+            <pubDate>Thu, 26 Nov 2026 04:25:59 -0500</pubDate>
+            <link>https://github.com/caseyf1988/forgeclipro-releases/releases</link>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>202611260413</sparkle:version>
+            <sparkle:shortVersionString>1.6.0-dev.2577</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description>&lt;h2&gt;Forge Pro 1.6.0-dev.2577&lt;/h2&gt;
+&lt;p&gt;Build 202611260413 · commit dfbae6002 · beta channel&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;fix(smith): status cards grow with the text and never leave an empty column (#772)&lt;/li&gt;
+&lt;li&gt;fix(smith): Try it says &amp;quot;or&amp;quot; between its two examples (#772)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <enclosure url="https://github.com/caseyf1988/forgeclipro-releases/releases/download/macos-v1.6.0-dev.2577-202611260413/ForgeCLI-Pro-1.6.0-dev.2577.dmg" length="268973443" type="application/octet-stream" sparkle:edSignature="XkrrmsLl4fG+EHb81OfmIyfyANkHzUej8oIDSE7siZIErM/aTCnPmvvnfuINhUZ+MXJYFfuiZ3/J5q2JR/gsDg==" />
+        </item>
+    <item>
             <title>1.6.0-dev.2574</title>
             <pubDate>Thu, 26 Nov 2026 02:41:45 -0500</pubDate>
             <link>https://github.com/caseyf1988/forgeclipro-releases/releases</link>
