@@ -2,6 +2,22 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <item>
+            <title>1.6.0-dev.2574</title>
+            <pubDate>Thu, 26 Nov 2026 02:41:45 -0500</pubDate>
+            <link>https://github.com/caseyf1988/forgeclipro-releases/releases</link>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>202611260219</sparkle:version>
+            <sparkle:shortVersionString>1.6.0-dev.2574</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description>&lt;h2&gt;Forge Pro 1.6.0-dev.2574&lt;/h2&gt;
+&lt;p&gt;Build 202611260219 · commit 0897fbb19 · beta channel&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;fix(smith): the finance step says whether the app has asked, not that it uses Smith&lt;/li&gt;
+&lt;li&gt;feat(smith): Smith&amp;#x27;s page names the next step to get ready, with a way to it&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <enclosure url="https://github.com/caseyf1988/forgeclipro-releases/releases/download/macos-v1.6.0-dev.2574-202611260219/ForgeCLI-Pro-1.6.0-dev.2574.dmg" length="266389169" type="application/octet-stream" sparkle:edSignature="CRUUxVqA3JQD5vr5oHPspVlSII4NNBZpB2+rfaXAqoHhTx1WSYLBXzp0O7fBDkwehqXGgd574wbyAojf+5okBg==" />
+        </item>
+    <item>
             <title>1.6.0-dev.2571</title>
             <pubDate>Thu, 26 Nov 2026 01:36:36 -0500</pubDate>
             <link>https://github.com/caseyf1988/forgeclipro-releases/releases</link>
