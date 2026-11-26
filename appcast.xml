@@ -2,6 +2,21 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <item>
+            <title>1.6.0-dev.2571</title>
+            <pubDate>Thu, 26 Nov 2026 01:36:36 -0500</pubDate>
+            <link>https://github.com/caseyf1988/forgeclipro-releases/releases</link>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>202611260116</sparkle:version>
+            <sparkle:shortVersionString>1.6.0-dev.2571</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description>&lt;h2&gt;Forge Pro 1.6.0-dev.2571&lt;/h2&gt;
+&lt;p&gt;Build 202611260116 · commit 8ea3967ce · beta channel&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;feat(smith): Getting Smith ready checklist, and when HA and the finance app last checked in&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <enclosure url="https://github.com/caseyf1988/forgeclipro-releases/releases/download/macos-v1.6.0-dev.2571-202611260116/ForgeCLI-Pro-1.6.0-dev.2571.dmg" length="270245181" type="application/octet-stream" sparkle:edSignature="fL+LUE+GIo3wPxwleYwbGsZtvzArW0WEo8m4JZSV4IFHz6IJ/9+EZ1/N/trHIRs1mBo0SSXSE5DJyoGt41ryDw==" />
+        </item>
+    <item>
             <title>1.6.0-dev.2567</title>
             <pubDate>Wed, 25 Nov 2026 21:12:28 -0500</pubDate>
             <link>https://github.com/caseyf1988/forgeclipro-releases/releases</link>
