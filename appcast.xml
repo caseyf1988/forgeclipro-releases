@@ -2,6 +2,22 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <item>
+            <title>1.6.0-dev.2605</title>
+            <pubDate>Thu, 26 Nov 2026 12:45:52 -0500</pubDate>
+            <link>https://github.com/caseyf1988/forgeclipro-releases/releases</link>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>202611261234</sparkle:version>
+            <sparkle:shortVersionString>1.6.0-dev.2605</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description>&lt;h2&gt;Forge Pro 1.6.0-dev.2605&lt;/h2&gt;
+&lt;p&gt;Build 202611261234 · commit 50d919412 · beta channel&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;fix(smith): answer about several devices from one Home Assistant read (GH #772)&lt;/li&gt;
+&lt;li&gt;fix(ha): a failed Smith setup left open no longer blocks the next try (0.1.1)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <enclosure url="https://github.com/caseyf1988/forgeclipro-releases/releases/download/macos-v1.6.0-dev.2605-202611261234/ForgeCLI-Pro-1.6.0-dev.2605.dmg" length="268870101" type="application/octet-stream" sparkle:edSignature="KX4EDHx7FhDIy1Pib1ysI7oshUcIsh7UXZZrQrNWVIvsBrjVZykOqP2jvMW0/G7Gap/JZMMvFOwjnzdbPqkZAg==" />
+        </item>
+    <item>
             <title>1.6.0-dev.2596</title>
             <pubDate>Thu, 26 Nov 2026 11:46:12 -0500</pubDate>
             <link>https://github.com/caseyf1988/forgeclipro-releases/releases</link>
