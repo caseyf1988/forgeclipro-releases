@@ -2,6 +2,22 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <item>
+            <title>1.6.0-dev.2617</title>
+            <pubDate>Thu, 26 Nov 2026 17:07:43 -0500</pubDate>
+            <link>https://github.com/caseyf1988/forgeclipro-releases/releases</link>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>202611261647</sparkle:version>
+            <sparkle:shortVersionString>1.6.0-dev.2617</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description>&lt;h2&gt;Forge Pro 1.6.0-dev.2617&lt;/h2&gt;
+&lt;p&gt;Build 202611261647 · commit 00e844592 · beta channel&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;feat(smith): turn fans and switches on and off, and say whether they are on (GH #772)&lt;/li&gt;
+&lt;li&gt;feat(smith): each Assist sentence leaves one line in the service log (GH #772)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <enclosure url="https://github.com/caseyf1988/forgeclipro-releases/releases/download/macos-v1.6.0-dev.2617-202611261647/ForgeCLI-Pro-1.6.0-dev.2617.dmg" length="266437810" type="application/octet-stream" sparkle:edSignature="6gssExspQQcKd26MDV/HyDm4IFDmi+2OArWQtfaO5lbBjOOTHknK/mhMX7S2GZO6lphXDvGkrOOQecN1D1q6Dw==" />
+        </item>
+    <item>
             <title>1.6.0-dev.2612</title>
             <pubDate>Thu, 26 Nov 2026 16:04:24 -0500</pubDate>
             <link>https://github.com/caseyf1988/forgeclipro-releases/releases</link>
